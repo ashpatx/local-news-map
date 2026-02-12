@@ -1,0 +1,1 @@
+An interactive WordPress tool that helps users discover local newsrooms. Users can search by city or state, to find news outlets that have been pinned on a Leaflet map. They can click any pin to load that outlet's two most recent articles - fetched and cached server-side by WordPress.
