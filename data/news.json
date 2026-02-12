@@ -1,0 +1,3352 @@
+[
+  {
+    "name": "Adirondack Explorer",
+    "zip": "12997",
+    "city_state": "Saranac Lake, NY",
+    "coverage": "News dedicated to promotion and protection of the Adirondacks region",
+    "website": "https://www.adirondackexplorer.org/",
+    "rss": "https://www.adirondackexplorer.org/feed",
+    "lat": 44.3295,
+    "lng": -74.1312
+  },
+  {
+    "name": "AFRO News",
+    "zip": "21202",
+    "city_state": "Baltimore, MD",
+    "coverage": "Crusading for racial equality and economic advancement for 128 years",
+    "website": "https://afro.com",
+    "rss": "https://afro.com/feed",
+    "lat": 39.2904,
+    "lng": -76.6122
+  },
+  {
+    "name": "Al Dia en Am\u00e9rica",
+    "zip": "40202",
+    "city_state": "Louisville, KY",
+    "coverage": "Spanish news for Latino community in Kentuckiana",
+    "website": "https://www.aldiaenamerica.com/",
+    "rss": "https://www.aldiaenamerica.com/feed",
+    "lat": 38.2527,
+    "lng": -85.7585
+  },
+  {
+    "name": "Alamosa Citizen",
+    "zip": "81101",
+    "city_state": "Alamosa, CO",
+    "coverage": "Member-supported nonpartisan daily online news for San Luis Valley",
+    "website": "https://www.alamosacitizen.com/",
+    "rss": "https://www.alamosacitizen.com/feed",
+    "lat": 37.4695,
+    "lng": -105.87
+  },
+  {
+    "name": "Alianza Metropolitan News",
+    "zip": "94102",
+    "city_state": "San Francisco, CA",
+    "coverage": "Spanish and English reporting serving Latino generations in Bay Area",
+    "website": "https://alianzanews.com/",
+    "rss": "https://alianzanews.com/feed",
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  {
+    "name": "Amarillo Tribune",
+    "zip": "79101",
+    "city_state": "Amarillo, TX",
+    "coverage": "Earning community trust through deep issue coverage serving public interest",
+    "website": "https://amarillotribune.org/",
+    "rss": "https://amarillotribune.org/feed",
+    "lat": 35.222,
+    "lng": -101.8313
+  },
+  {
+    "name": "America Magazine",
+    "zip": "10019",
+    "city_state": "New York, NY",
+    "coverage": "The Jesuit Review of Faith & Culture",
+    "website": "https://www.americamagazine.org/",
+    "rss": "https://www.americamagazine.org/rss",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "Amherst Bulletin",
+    "zip": "01002",
+    "city_state": "Amherst, MA",
+    "coverage": "Weekly news for Hampshire and Franklin County Massachusetts",
+    "website": "https://amherstbulletin.com/",
+    "rss": "https://amherstbulletin.com/feed",
+    "lat": 42.3732,
+    "lng": -72.5199
+  },
+  {
+    "name": "APSE Foundation",
+    "zip": "37203",
+    "city_state": "Nashville, TN",
+    "coverage": "Associated Press Sports Editors Foundation",
+    "website": "https://apsefoundation.org/",
+    "rss": "https://apsefoundation.org/feed",
+    "lat": 36.1627,
+    "lng": -86.7816
+  },
+  {
+    "name": "Arizona CIR",
+    "zip": "85004",
+    "city_state": "Phoenix, AZ",
+    "coverage": "Independent nonprofit statewide accountability journalism in Grand Canyon State",
+    "website": "https://azcir.org",
+    "rss": "https://azcir.org/feed",
+    "lat": 33.4484,
+    "lng": -112.074
+  },
+  {
+    "name": "Arkansas Times",
+    "zip": "72201",
+    "city_state": "Little Rock, AR",
+    "coverage": "Arkansas source for breaking news, politics, dining and entertainment",
+    "website": "https://arktimes.com/",
+    "rss": "https://arktimes.com/feed",
+    "lat": 34.7465,
+    "lng": -92.2896
+  },
+  {
+    "name": "Around Concord",
+    "zip": "03301",
+    "city_state": "Concord, NH",
+    "coverage": "Regional magazine for Capital Region New Hampshire",
+    "website": "https://www.aroundconcord.com/",
+    "rss": "https://www.aroundconcord.com/feed",
+    "lat": 43.2081,
+    "lng": -71.5376
+  },
+  {
+    "name": "Asheville Watchdog",
+    "zip": "28801",
+    "city_state": "Asheville, NC",
+    "coverage": "Fair factual in-depth news about Asheville local government and institutions",
+    "website": "https://avlwatchdog.org/",
+    "rss": "https://avlwatchdog.org/feed",
+    "lat": 35.5951,
+    "lng": -82.5515
+  },
+  {
+    "name": "Ashland Source",
+    "zip": "44805",
+    "city_state": "Ashland, OH",
+    "coverage": "Local independent news in Ashland County Ohio",
+    "website": "https://www.ashlandsource.com/",
+    "rss": "https://www.ashlandsource.com/feed",
+    "lat": 40.8687,
+    "lng": -82.3182
+  },
+  {
+    "name": "Asia Times",
+    "zip": "999077",
+    "city_state": "Hong Kong",
+    "coverage": "Covering geo-political news and current affairs across Asia",
+    "website": "https://asiatimes.com",
+    "rss": "https://asiatimes.com/feed",
+    "lat": 22.3193,
+    "lng": 114.1694
+  },
+  {
+    "name": "Aspen Journalism",
+    "zip": "81611",
+    "city_state": "Aspen, CO",
+    "coverage": "Independent nonprofit covering Aspen, Pitkin County and western Colorado",
+    "website": "https://aspenjournalism.org",
+    "rss": "https://aspenjournalism.org/feed",
+    "lat": 39.1911,
+    "lng": -106.8175
+  },
+  {
+    "name": "Athol Daily News",
+    "zip": "01331",
+    "city_state": "Athol, MA",
+    "coverage": "Primary source of local news in North Quabbin Region of central Massachusetts",
+    "website": "https://atholdailynews.com/",
+    "rss": "https://atholdailynews.com/feed",
+    "lat": 42.5959,
+    "lng": -72.2267
+  },
+  {
+    "name": "Atlanta Civic Circle",
+    "zip": "30303",
+    "city_state": "Atlanta, GA",
+    "coverage": "In-depth reporting on critical metro Atlanta issues with civic engagement",
+    "website": "https://atlantaciviccircle.org",
+    "rss": "https://atlantaciviccircle.org/feed",
+    "lat": 33.749,
+    "lng": -84.388
+  },
+  {
+    "name": "Austin Current",
+    "zip": "78701",
+    "city_state": "Austin, TX",
+    "coverage": "Community newsroom built to keep pace with Austin's explosive growth",
+    "website": "https://austincurrent.org/",
+    "rss": "https://austincurrent.org/feed",
+    "lat": 30.2672,
+    "lng": -97.7431
+  },
+  {
+    "name": "Austin Monitor",
+    "zip": "78701",
+    "city_state": "Austin, TX",
+    "coverage": "Nonpartisan local daily covering intersection of government and community",
+    "website": "https://austinmonitor.com/",
+    "rss": "https://austinmonitor.com/feed",
+    "lat": 30.2672,
+    "lng": -97.7431
+  },
+  {
+    "name": "Austin Weekly News",
+    "zip": "60644",
+    "city_state": "Chicago, IL",
+    "coverage": "Weekly newspaper serving Austin community area in Chicago",
+    "website": "https://austinweeklynews.com",
+    "rss": "https://austinweeklynews.com/feed",
+    "lat": 41.8781,
+    "lng": -87.6298
+  },
+  {
+    "name": "AZ Luminaria",
+    "zip": "85004",
+    "city_state": "Phoenix, AZ",
+    "coverage": "Local news as resource for action, equality and democracy in Arizona",
+    "website": "https://www.azluminaria.org/",
+    "rss": "https://www.azluminaria.org/feed",
+    "lat": 33.4484,
+    "lng": -112.074
+  },
+  {
+    "name": "Bailiwick Express",
+    "zip": "JE2 3TP",
+    "city_state": "St Helier, Jersey",
+    "coverage": "Latest news, events from Jersey, Guernsey and Channel Islands",
+    "website": "https://www.bailiwickexpress.com/",
+    "rss": "https://www.bailiwickexpress.com/feed",
+    "lat": 49.1858,
+    "lng": -2.1103
+  },
+  {
+    "name": "Baltimore Beat",
+    "zip": "21202",
+    "city_state": "Baltimore, MD",
+    "coverage": "Black-led Black-controlled nonprofit newspaper for all of Baltimore",
+    "website": "https://baltimorebeat.com",
+    "rss": "https://baltimorebeat.com/feed",
+    "lat": 39.2904,
+    "lng": -76.6122
+  },
+  {
+    "name": "Baltimore Fishbowl",
+    "zip": "21202",
+    "city_state": "Baltimore, MD",
+    "coverage": "Fun factual controversial scoop on Baltimore schools, real estate and community",
+    "website": "https://baltimorefishbowl.com/",
+    "rss": "https://baltimorefishbowl.com/feed",
+    "lat": 39.2904,
+    "lng": -76.6122
+  },
+  {
+    "name": "Bangor Daily News",
+    "zip": "04401",
+    "city_state": "Bangor, ME",
+    "coverage": "Advocating for Maine's best interests through strong journalism",
+    "website": "https://www.bangordailynews.com/",
+    "rss": "https://www.bangordailynews.com/feed",
+    "lat": 44.8016,
+    "lng": -68.7712
+  },
+  {
+    "name": "BenitoLink",
+    "zip": "95023",
+    "city_state": "Hollister, CA",
+    "coverage": "Nonprofit news connecting San Benito County residents encouraging public dialogue",
+    "website": "https://benitolink.com/",
+    "rss": "https://benitolink.com/feed",
+    "lat": 36.8525,
+    "lng": -121.4016
+  },
+  {
+    "name": "Berkeleyside",
+    "zip": "94704",
+    "city_state": "Berkeley, CA",
+    "coverage": "Leading local news for Berkeley covering politics, food, real estate and education",
+    "website": "https://www.berkeleyside.org/",
+    "rss": "https://www.berkeleyside.org/feed",
+    "lat": 37.8715,
+    "lng": -122.273
+  },
+  {
+    "name": "BGA Policy",
+    "zip": "60654",
+    "city_state": "Chicago, IL",
+    "coverage": "Better Government Association holding politicians accountable",
+    "website": "https://www.bettergov.org/",
+    "rss": "https://www.bettergov.org/feed",
+    "lat": 41.8781,
+    "lng": -87.6298
+  },
+  {
+    "name": "Black Girl in CLE",
+    "zip": "44113",
+    "city_state": "Cleveland, OH",
+    "coverage": "Digital platform sharing stories of African American women in Greater Cleveland",
+    "website": "https://www.blackgirlincle.com/",
+    "rss": "https://www.blackgirlincle.com/feed",
+    "lat": 41.4993,
+    "lng": -81.6944
+  },
+  {
+    "name": "Block Club Chicago",
+    "zip": "60601",
+    "city_state": "Chicago, IL",
+    "coverage": "Nonprofit delivering reliable nonpartisan coverage of Chicago's diverse neighborhoods",
+    "website": "https://blockclubchicago.org/",
+    "rss": "https://blockclubchicago.org/feed",
+    "lat": 41.8781,
+    "lng": -87.6298
+  },
+  {
+    "name": "BlueLena",
+    "zip": "10001",
+    "city_state": "New York, NY",
+    "coverage": "Audience management and strategic marketing for publishers digital transformation",
+    "website": "https://bluelena.io/",
+    "rss": "https://bluelena.io/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "Border Belt Independent",
+    "zip": "28337",
+    "city_state": "Lumberton, NC",
+    "coverage": "Nonprofit digital newsroom covering southeastern North Carolina counties",
+    "website": "https://borderbelt.org/",
+    "rss": "https://borderbelt.org/feed",
+    "lat": 34.6182,
+    "lng": -79.0086
+  },
+  {
+    "name": "Boulder Reporting Lab",
+    "zip": "80302",
+    "city_state": "Boulder, CO",
+    "coverage": "Boulder's nonprofit home for quality non-partisan independent journalism",
+    "website": "https://boulderreportinglab.org/",
+    "rss": "https://boulderreportinglab.org/feed",
+    "lat": 40.015,
+    "lng": -105.2705
+  },
+  {
+    "name": "Boyle Heights Beat",
+    "zip": "90033",
+    "city_state": "Los Angeles, CA",
+    "coverage": "News and features from Boyle Heights neighborhood in Los Angeles",
+    "website": "https://boyleheightsbeat.com/",
+    "rss": "https://boyleheightsbeat.com/feed",
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  {
+    "name": "Bridge Detroit",
+    "zip": "48226",
+    "city_state": "Detroit, MI",
+    "coverage": "Original community-driven nonprofit news by and for Detroiters",
+    "website": "https://bridgedetroit.com",
+    "rss": "https://bridgedetroit.com/feed",
+    "lat": 42.3314,
+    "lng": -83.0458
+  },
+  {
+    "name": "Bridge Michigan",
+    "zip": "48226",
+    "city_state": "Detroit, MI",
+    "coverage": "Original fact-driven reporting from Michigan's nonpartisan nonprofit",
+    "website": "https://bridgemi.com/",
+    "rss": "https://bridgemi.com/feed",
+    "lat": 42.3314,
+    "lng": -83.0458
+  },
+  {
+    "name": "Brookline.News",
+    "zip": "02445",
+    "city_state": "Brookline, MA",
+    "coverage": "Independent nonprofit news organization covering Brookline town of 65,000",
+    "website": "https://brookline.news/",
+    "rss": "https://brookline.news/feed",
+    "lat": 42.3318,
+    "lng": -71.1212
+  },
+  {
+    "name": "Bucket List Community Cafe",
+    "zip": "80205",
+    "city_state": "Denver, CO",
+    "coverage": "Hyperlocal neighborly news at intersection of community and journalism",
+    "website": "https://bucketlistcommunitycafe.com/",
+    "rss": "https://bucketlistcommunitycafe.com/feed",
+    "lat": 39.7392,
+    "lng": -104.9903
+  },
+  {
+    "name": "Buckrail",
+    "zip": "83001",
+    "city_state": "Jackson, WY",
+    "coverage": "Covering Jackson Hole Wyoming region",
+    "website": "https://buckrail.com/",
+    "rss": "https://buckrail.com/feed",
+    "lat": 43.4799,
+    "lng": -110.7624
+  },
+  {
+    "name": "B\u00fcrgerportal Bergisch Gladbach",
+    "zip": "51465",
+    "city_state": "Bergisch Gladbach, Germany",
+    "coverage": "Digital local newspaper for Bergisch Gladbach covering politics and culture",
+    "website": "https://in-gl.de",
+    "rss": "https://in-gl.de/feed",
+    "lat": 50.9923,
+    "lng": 7.14
+  },
+  {
+    "name": "Calgary Journal",
+    "zip": "T3E 6K6",
+    "city_state": "Calgary, AB",
+    "coverage": "Next generation journalists telling untold Calgary stories",
+    "website": "https://calgaryjournal.ca",
+    "rss": "https://calgaryjournal.ca/feed",
+    "lat": 51.0447,
+    "lng": -114.0719
+  },
+  {
+    "name": "CalMatters",
+    "zip": "95814",
+    "city_state": "Sacramento, CA",
+    "coverage": "Nonpartisan nonprofit explaining how California's state Capitol works",
+    "website": "https://calmatters.org/",
+    "rss": "https://calmatters.org/feed",
+    "lat": 38.5816,
+    "lng": -121.4944
+  },
+  {
+    "name": "Canadian Affairs",
+    "zip": "K1P 5G4",
+    "city_state": "Ottawa, ON",
+    "coverage": "High-quality reported journalism for Canadian professionals and families",
+    "website": "https://canadianaffairs.news",
+    "rss": "https://canadianaffairs.news/feed",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "name": "Cap City News",
+    "zip": "82001",
+    "city_state": "Cheyenne, WY",
+    "coverage": "Cheyenne affiliate of Oil City News covering Wyoming",
+    "website": "https://capcity.news/",
+    "rss": "https://capcity.news/feed",
+    "lat": 41.14,
+    "lng": -104.8202
+  },
+  {
+    "name": "Capital B News",
+    "zip": "20036",
+    "city_state": "Washington, DC",
+    "coverage": "Black-led nonprofit local and national news for Black communities nationwide",
+    "website": "https://capitalbnews.org/",
+    "rss": "https://capitalbnews.org/feed",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  {
+    "name": "Capital B News \u2014 Atlanta",
+    "zip": "30303",
+    "city_state": "Atlanta, GA",
+    "coverage": "Black-led nonprofit reporting for Black communities in Atlanta",
+    "website": "https://atlanta.capitalbnews.org/",
+    "rss": "https://atlanta.capitalbnews.org/feed",
+    "lat": 33.749,
+    "lng": -84.388
+  },
+  {
+    "name": "Capital B News \u2014 Gary",
+    "zip": "46402",
+    "city_state": "Gary, IN",
+    "coverage": "Black-led nonprofit reporting for Black communities in Gary Indiana",
+    "website": "https://gary.capitalbnews.org/",
+    "rss": "https://gary.capitalbnews.org/feed",
+    "lat": 41.5934,
+    "lng": -87.3464
+  },
+  {
+    "name": "Cardinal News",
+    "zip": "24012",
+    "city_state": "Roanoke, VA",
+    "coverage": "Independent non-profit non-partisan news covering Southwest and Southside Virginia",
+    "website": "https://cardinalnews.org/",
+    "rss": "https://cardinalnews.org/feed",
+    "lat": 37.271,
+    "lng": -79.9414
+  },
+  {
+    "name": "Carolina Public Press",
+    "zip": "28801",
+    "city_state": "Asheville, NC",
+    "coverage": "Independent nonprofit nonpartisan investigative news for North Carolinians",
+    "website": "https://carolinapublicpress.org/",
+    "rss": "https://carolinapublicpress.org/feed",
+    "lat": 35.5951,
+    "lng": -82.5515
+  },
+  {
+    "name": "Carson Now",
+    "zip": "89701",
+    "city_state": "Carson City, NV",
+    "coverage": "Local news serving Carson City Nevada area",
+    "website": "https://carsonnow.org/",
+    "rss": "https://carsonnow.org/feed",
+    "lat": 39.1638,
+    "lng": -119.7674
+  },
+  {
+    "name": "Casa de Campo Living",
+    "zip": "22000",
+    "city_state": "La Romana, Dominican Republic",
+    "coverage": "Independent community news focused on Casa de Campo and surrounding area",
+    "website": "https://casadecampoliving.com/",
+    "rss": "https://casadecampoliving.com/feed",
+    "lat": 18.4274,
+    "lng": -68.9728
+  },
+  {
+    "name": "Central Current",
+    "zip": "13202",
+    "city_state": "Syracuse, NY",
+    "coverage": "Syracuse nonprofit newsroom building independent local journalism for Central NY",
+    "website": "https://centralcurrent.org/",
+    "rss": "https://centralcurrent.org/feed",
+    "lat": 43.0481,
+    "lng": -76.1474
+  },
+  {
+    "name": "Charleston City Paper",
+    "zip": "29401",
+    "city_state": "Charleston, SC",
+    "coverage": "Independent local free news covering Lowcountry food, arts and music since 1997",
+    "website": "https://charlestoncitypaper.com/",
+    "rss": "https://charlestoncitypaper.com/feed",
+    "lat": 32.7765,
+    "lng": -79.9311
+  },
+  {
+    "name": "Charlottesville Tomorrow",
+    "zip": "22902",
+    "city_state": "Charlottesville, VA",
+    "coverage": "Community-driven socially conscious news connecting Charlottesville neighbors",
+    "website": "https://www.cvilletomorrow.org/",
+    "rss": "https://www.cvilletomorrow.org/feed",
+    "lat": 38.0293,
+    "lng": -78.4767
+  },
+  {
+    "name": "CHEK News",
+    "zip": "V8W 1J8",
+    "city_state": "Victoria, BC",
+    "coverage": "Independent employee-owned news for Vancouver Island",
+    "website": "https://cheknews.ca/",
+    "rss": "https://cheknews.ca/feed",
+    "lat": 48.4284,
+    "lng": -123.3656
+  },
+  {
+    "name": "Chicago Reader",
+    "zip": "60654",
+    "city_state": "Chicago, IL",
+    "coverage": "Community-funded nonprofit alternative reporting by and for Chicagoans",
+    "website": "https://chicagoreader.com",
+    "rss": "https://chicagoreader.com/feed",
+    "lat": 41.8781,
+    "lng": -87.6298
+  },
+  {
+    "name": "Chicago Reporter",
+    "zip": "60654",
+    "city_state": "Chicago, IL",
+    "coverage": "Documenting metropolitan area struggles with race and poverty issues",
+    "website": "https://www.chicagoreporter.com/",
+    "rss": "https://www.chicagoreporter.com/feed",
+    "lat": 41.8781,
+    "lng": -87.6298
+  },
+  {
+    "name": "Chronogram Magazine",
+    "zip": "12401",
+    "city_state": "Kingston, NY",
+    "coverage": "Hudson Valley & Catskills arts and cultural events, live music, restaurants",
+    "website": "https://www.chronogram.com/",
+    "rss": "https://www.chronogram.com/feed",
+    "lat": 41.927,
+    "lng": -73.9973
+  },
+  {
+    "name": "Circle of Blue",
+    "zip": "49684",
+    "city_state": "Traverse City, MI",
+    "coverage": "Premier water newsroom providing data-driven water reporting",
+    "website": "https://www.circleofblue.org/",
+    "rss": "https://www.circleofblue.org/feed",
+    "lat": 44.7631,
+    "lng": -85.6206
+  },
+  {
+    "name": "CITY Magazine",
+    "zip": "14604",
+    "city_state": "Rochester, NY",
+    "coverage": "Rochester source for arts, music, events and culture since 1971",
+    "website": "https://www.roccitymag.com/",
+    "rss": "https://www.roccitymag.com/feed",
+    "lat": 43.1566,
+    "lng": -77.6088
+  },
+  {
+    "name": "CityBeat",
+    "zip": "45202",
+    "city_state": "Cincinnati, OH",
+    "coverage": "Cincinnati and Ohio news, arts and culture coverage",
+    "website": "https://www.citybeat.com/",
+    "rss": "https://www.citybeat.com/feed",
+    "lat": 39.1031,
+    "lng": -84.512
+  },
+  {
+    "name": "CityView",
+    "zip": "28301",
+    "city_state": "Fayetteville, NC",
+    "coverage": "Covering local government, schools in Fayetteville and Cumberland County",
+    "website": "https://www.cityviewnc.com/",
+    "rss": "https://www.cityviewnc.com/feed",
+    "lat": 35.0527,
+    "lng": -78.8784
+  },
+  {
+    "name": "Clear Health Costs",
+    "zip": "10001",
+    "city_state": "New York, NY",
+    "coverage": "Bringing transparency to healthcare by telling people what stuff costs",
+    "website": "https://clearhealthcosts.com",
+    "rss": "https://clearhealthcosts.com/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "Cleveland Scene",
+    "zip": "44113",
+    "city_state": "Cleveland, OH",
+    "coverage": "Free source for Cleveland and Northeast Ohio news, arts and culture coverage",
+    "website": "https://www.clevescene.com/",
+    "rss": "https://www.clevescene.com/feed",
+    "lat": 41.4993,
+    "lng": -81.6944
+  },
+  {
+    "name": "CommonWealth Beacon",
+    "zip": "02111",
+    "city_state": "Boston, MA",
+    "coverage": "Trusted source for in-depth news on Massachusetts policy, politics and civic life",
+    "website": "https://commonwealthbeacon.org/",
+    "rss": "https://commonwealthbeacon.org/feed",
+    "lat": 42.3601,
+    "lng": -71.0589
+  },
+  {
+    "name": "Concord Monitor",
+    "zip": "03301",
+    "city_state": "Concord, NH",
+    "coverage": "Pulitzer Prize winning daily newspaper in New Hampshire capital",
+    "website": "https://concordmonitor.com/",
+    "rss": "https://concordmonitor.com/feed",
+    "lat": 43.2081,
+    "lng": -71.5376
+  },
+  {
+    "name": "Connect Savannah",
+    "zip": "31401",
+    "city_state": "Savannah, GA",
+    "coverage": "Leading alternative voice in Savannah covering news, arts, and culture",
+    "website": "https://www.connectsavannah.com/",
+    "rss": "https://www.connectsavannah.com/feed",
+    "lat": 32.0809,
+    "lng": -81.0912
+  },
+  {
+    "name": "Connecticut Inside Investigator",
+    "zip": "06103",
+    "city_state": "Hartford, CT",
+    "coverage": "Nonprofit newsroom informing Connecticut through investigative journalism",
+    "website": "https://insideinvestigator.org/",
+    "rss": "https://insideinvestigator.org/feed",
+    "lat": 41.7658,
+    "lng": -72.6734
+  },
+  {
+    "name": "County 17",
+    "zip": "82716",
+    "city_state": "Gillette, WY",
+    "coverage": "Gillette affiliate of Oil City News covering Wyoming",
+    "website": "https://county17.com/",
+    "rss": "https://county17.com/feed",
+    "lat": 44.2911,
+    "lng": -105.5022
+  },
+  {
+    "name": "Creative Loafing Charlotte",
+    "zip": "28202",
+    "city_state": "Charlotte, NC",
+    "coverage": "Best source for news on restaurants, concerts, theater, and visual arts in Charlotte",
+    "website": "https://clclt.com/",
+    "rss": "https://clclt.com/feed",
+    "lat": 35.2271,
+    "lng": -80.8431
+  },
+  {
+    "name": "Creative Loafing Tampa Bay",
+    "zip": "33602",
+    "city_state": "Tampa, FL",
+    "coverage": "Tampa Bay and Florida news, arts and culture coverage",
+    "website": "https://www.cltampa.com/",
+    "rss": "https://www.cltampa.com/feed",
+    "lat": 27.9506,
+    "lng": -82.4572
+  },
+  {
+    "name": "Crictoday English",
+    "zip": "110001",
+    "city_state": "New Delhi, India",
+    "coverage": "Sports news website with main focus on cricket in multiple languages",
+    "website": "https://crictoday.com",
+    "rss": "https://crictoday.com/feed",
+    "lat": 28.6139,
+    "lng": 77.209
+  },
+  {
+    "name": "Crictoday Hindi",
+    "zip": "110001",
+    "city_state": "New Delhi, India",
+    "coverage": "Sports news website with cricket focus in Hindi",
+    "website": "https://hindi.crictoday.com",
+    "rss": "https://hindi.crictoday.com/feed",
+    "lat": 28.6139,
+    "lng": 77.209
+  },
+  {
+    "name": "Cronica Uno",
+    "zip": "1010",
+    "city_state": "Caracas, Venezuela",
+    "coverage": "Media outlet focusing on lower-income sectors defending freedom of expression",
+    "website": "https://cronica.uno/",
+    "rss": "https://cronica.uno/feed",
+    "lat": 10.4806,
+    "lng": -66.9036
+  },
+  {
+    "name": "Cronkite News",
+    "zip": "85004",
+    "city_state": "Phoenix, AZ",
+    "coverage": "News that impacts daily lives from Arizona State University's Cronkite School",
+    "website": "https://cronkitenews.azpbs.org/",
+    "rss": "https://cronkitenews.azpbs.org/feed",
+    "lat": 33.4484,
+    "lng": -112.074
+  },
+  {
+    "name": "CT Mirror",
+    "zip": "06105",
+    "city_state": "Hartford, CT",
+    "coverage": "Reporting on CT public policy, government and politics",
+    "website": "https://ctmirror.org/",
+    "rss": "https://ctmirror.org/feed",
+    "lat": 41.766,
+    "lng": -72.673
+  },
+  {
+    "name": "CT News Junkie",
+    "zip": "06103",
+    "city_state": "Hartford, CT",
+    "coverage": "Connecticut news site with original reporting on state politics",
+    "website": "https://ctnewsjunkie.com",
+    "rss": "https://ctnewsjunkie.com/feed",
+    "lat": 41.7658,
+    "lng": -72.6734
+  },
+  {
+    "name": "CV Independent",
+    "zip": "92262",
+    "city_state": "Palm Springs, CA",
+    "coverage": "Independent news, music, arts and culture for Coachella Valley since 2012",
+    "website": "https://cvindependent.com",
+    "rss": "https://cvindependent.com/feed",
+    "lat": 33.8303,
+    "lng": -116.5453
+  },
+  {
+    "name": "Daily Hampshire Gazette",
+    "zip": "01060",
+    "city_state": "Northampton, MA",
+    "coverage": "Oldest daily newspaper in Massachusetts since 1786",
+    "website": "https://gazettenet.com/",
+    "rss": "https://gazettenet.com/feed",
+    "lat": 42.3251,
+    "lng": -72.6412
+  },
+  {
+    "name": "Daily Yonder",
+    "zip": "37203",
+    "city_state": "Nashville, TN",
+    "coverage": "News, commentary and analysis about and for rural America",
+    "website": "https://dailyyonder.com/",
+    "rss": "https://dailyyonder.com/feed",
+    "lat": 36.1627,
+    "lng": -86.7816
+  },
+  {
+    "name": "Dallas Voice",
+    "zip": "75219",
+    "city_state": "Dallas, TX",
+    "coverage": "LGBTQ community beacon for four decades in Dallas",
+    "website": "https://dallasvoice.com/",
+    "rss": "https://dallasvoice.com/feed",
+    "lat": 32.7767,
+    "lng": -96.797
+  },
+  {
+    "name": "Dallas Weekly",
+    "zip": "75215",
+    "city_state": "Dallas, TX",
+    "coverage": "Leading trusted voice of African diaspora in north Texas for 68+ years",
+    "website": "https://dallasweekly.com/",
+    "rss": "https://dallasweekly.com/feed",
+    "lat": 32.7767,
+    "lng": -96.797
+  },
+  {
+    "name": "Danville San Ramon",
+    "zip": "94526",
+    "city_state": "Danville, CA",
+    "coverage": "Local news and information for Danville, Alamo, Blackhawk and Diablo",
+    "website": "https://www.danvillesanramon.com/",
+    "rss": "https://www.danvillesanramon.com/feed",
+    "lat": 37.8216,
+    "lng": -121.9999
+  },
+  {
+    "name": "Delaware Source",
+    "zip": "19801",
+    "city_state": "Wilmington, DE",
+    "coverage": "Delaware's Independent Local News Source",
+    "website": "https://www.delawaresource.com/",
+    "rss": "https://www.delawaresource.com/feed",
+    "lat": 39.7391,
+    "lng": -75.5398
+  },
+  {
+    "name": "Denver Urban Spectrum",
+    "zip": "80205",
+    "city_state": "Denver, CO",
+    "coverage": "Educating, informing and enlightening by spreading news about people of color",
+    "website": "https://www.denverurbanspectrum.com/",
+    "rss": "https://www.denverurbanspectrum.com/feed",
+    "lat": 39.7392,
+    "lng": -104.9903
+  },
+  {
+    "name": "Diario de Yucat\u00e1n",
+    "zip": "97000",
+    "city_state": "M\u00e9rida, Yucat\u00e1n, Mexico",
+    "coverage": "Objective and credible information for Yucat\u00e1n since 1925",
+    "website": "https://www.yucatan.com.mx/",
+    "rss": "https://www.yucatan.com.mx/feed",
+    "lat": 20.9674,
+    "lng": -89.5926
+  },
+  {
+    "name": "El Informador",
+    "zip": "29401",
+    "city_state": "Charleston, SC",
+    "coverage": "Local national and international news for South Carolina Latino community",
+    "website": "https://www.elinformador.us/",
+    "rss": "https://www.elinformador.us/feed",
+    "lat": 32.7765,
+    "lng": -79.9311
+  },
+  {
+    "name": "El Latino",
+    "zip": "92101",
+    "city_state": "San Diego, CA",
+    "coverage": "Largest Hispanic-owned Spanish publication in California since 1988",
+    "website": "https://ellatinoonline.com",
+    "rss": "https://ellatinoonline.com/feed",
+    "lat": 32.7157,
+    "lng": -117.1611
+  },
+  {
+    "name": "El L\u00edbero",
+    "zip": "7500000",
+    "city_state": "Santiago, Chile",
+    "coverage": "Private independent Chilean media for public affairs discussion",
+    "website": "https://ellibero.cl/",
+    "rss": "https://ellibero.cl/feed",
+    "lat": -33.4489,
+    "lng": -70.6693
+  },
+  {
+    "name": "El Paso Matters",
+    "zip": "79901",
+    "city_state": "El Paso, TX",
+    "coverage": "Independent nonprofit investigative journalism for El Paso Juarez border region",
+    "website": "https://elpasomatters.org/",
+    "rss": "https://elpasomatters.org/feed",
+    "lat": 31.7619,
+    "lng": -106.485
+  },
+  {
+    "name": "El Sol",
+    "zip": "M5500",
+    "city_state": "Mendoza, Argentina",
+    "coverage": "Minute-by-minute news covering Mendoza Argentina and the world",
+    "website": "https://www.elsol.com.ar/",
+    "rss": "https://www.elsol.com.ar/feed",
+    "lat": -32.8895,
+    "lng": -68.8458
+  },
+  {
+    "name": "El T\u00edmpano",
+    "zip": "94601",
+    "city_state": "Oakland, CA",
+    "coverage": "Informing and amplifying voices of Latino and Mayan immigrants in Bay Area",
+    "website": "https://www.eltimpano.org/",
+    "rss": "https://www.eltimpano.org/feed",
+    "lat": 37.8044,
+    "lng": -122.2712
+  },
+  {
+    "name": "Enlace Latino NC",
+    "zip": "27601",
+    "city_state": "Raleigh, NC",
+    "coverage": "Spanish news on politics, immigration and community for North Carolina Latinos",
+    "website": "https://enlacelatinonc.org/",
+    "rss": "https://enlacelatinonc.org/feed",
+    "lat": 35.7796,
+    "lng": -78.6382
+  },
+  {
+    "name": "Epicenter NYC",
+    "zip": "11372",
+    "city_state": "Queens, NY",
+    "coverage": "Doing Good For The Hood",
+    "website": "https://epicenter-nyc.com/",
+    "rss": "https://epicenter-nyc.com/feed",
+    "lat": 40.743,
+    "lng": -73.855
+  },
+  {
+    "name": "Evanston Now",
+    "zip": "60201",
+    "city_state": "Evanston, IL",
+    "coverage": "Breaking news and in depth community news for Evanston Illinois since 2006",
+    "website": "https://evanstonnow.com/",
+    "rss": "https://evanstonnow.com/feed",
+    "lat": 42.0451,
+    "lng": -87.6877
+  },
+  {
+    "name": "Evanston RoundTable",
+    "zip": "60201",
+    "city_state": "Evanston, IL",
+    "coverage": "Award winning reporting on Chicagoland's North Shore",
+    "website": "https://evanstonroundtable.com",
+    "rss": "https://evanstonroundtable.com/feed",
+    "lat": 42.0451,
+    "lng": -87.6877
+  },
+  {
+    "name": "Feet in 2 Worlds",
+    "zip": "10001",
+    "city_state": "New York, NY",
+    "coverage": "Immigrant journalists from communities across US since 2004",
+    "website": "https://www.fi2w.org/",
+    "rss": "https://www.fi2w.org/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "Forest Park Review",
+    "zip": "60130",
+    "city_state": "Forest Park, IL",
+    "coverage": "Weekly newspaper serving Forest Park in Cook County Illinois",
+    "website": "https://forestparkreview.com",
+    "rss": "https://forestparkreview.com/feed",
+    "lat": 41.8795,
+    "lng": -87.8134
+  },
+  {
+    "name": "Fort Worth Report",
+    "zip": "76102",
+    "city_state": "Fort Worth, TX",
+    "coverage": "Making Fort Worth and Tarrant County better through reliable local news",
+    "website": "https://fortworthreport.org",
+    "rss": "https://fortworthreport.org/feed",
+    "lat": 32.7555,
+    "lng": -97.3308
+  },
+  {
+    "name": "Fresnoland",
+    "zip": "93721",
+    "city_state": "Fresno, CA",
+    "coverage": "Making policy public by for and with central San Joaquin Valley residents",
+    "website": "https://fresnoland.org/",
+    "rss": "https://fresnoland.org/feed",
+    "lat": 36.7378,
+    "lng": -119.7871
+  },
+  {
+    "name": "Gay Desert Guide",
+    "zip": "92262",
+    "city_state": "Palm Springs, CA",
+    "coverage": "No. 1 site for LGBTQ Palm Springs bars, nightlife, events and resorts",
+    "website": "https://gaydesertguide.com",
+    "rss": "https://gaydesertguide.com/feed",
+    "lat": 33.8303,
+    "lng": -116.5453
+  },
+  {
+    "name": "Gente Bonita Magazine",
+    "zip": "78041",
+    "city_state": "Laredo, TX",
+    "coverage": "Bilingual magazine covering health, wellness, culture on both sides of border",
+    "website": "https://gentebonitaonline.com/",
+    "rss": "https://gentebonitaonline.com/feed",
+    "lat": 27.5306,
+    "lng": -99.4803
+  },
+  {
+    "name": "Global Atlanta",
+    "zip": "30303",
+    "city_state": "Atlanta, GA",
+    "coverage": "Tracking Atlanta's rise as center for international business and culture",
+    "website": "https://www.globalatlanta.com/",
+    "rss": "https://www.globalatlanta.com/feed",
+    "lat": 33.749,
+    "lng": -84.388
+  },
+  {
+    "name": "Good Morning Wilton",
+    "zip": "06897",
+    "city_state": "Wilton, CT",
+    "coverage": "CT locally-owned, independent source of news",
+    "website": "https://goodmorningwilton.com/",
+    "rss": "https://goodmorningwilton.com/feed",
+    "lat": 41.195,
+    "lng": -73.438
+  },
+  {
+    "name": "Greenfield Recorder",
+    "zip": "01301",
+    "city_state": "Greenfield, MA",
+    "coverage": "Primary source of local news in Franklin County Massachusetts since 1792",
+    "website": "https://recorder.com/",
+    "rss": "https://recorder.com/feed",
+    "lat": 42.5876,
+    "lng": -72.5995
+  },
+  {
+    "name": "Grehlakshmi",
+    "zip": "110001",
+    "city_state": "New Delhi, India",
+    "coverage": "Hindi women's magazine on fashion, beauty, entertainment and lifestyle",
+    "website": "https://grehlakshmi.com/",
+    "rss": "https://grehlakshmi.com/feed",
+    "lat": 28.6139,
+    "lng": 77.209
+  },
+  {
+    "name": "Haitian Times",
+    "zip": "11226",
+    "city_state": "Brooklyn, NY",
+    "coverage": "Stories of Haiti and Haitians across Diaspora highlighting achievements",
+    "website": "https://haitiantimes.com",
+    "rss": "https://haitiantimes.com/feed",
+    "lat": 40.6782,
+    "lng": -73.9442
+  },
+  {
+    "name": "Halifax Examiner",
+    "zip": "B3J 3M8",
+    "city_state": "Halifax, NS",
+    "coverage": "Investigative reporting exposing corruption in Halifax since 2014",
+    "website": "https://www.halifaxexaminer.ca/",
+    "rss": "https://www.halifaxexaminer.ca/feed",
+    "lat": 44.6488,
+    "lng": -63.5752
+  },
+  {
+    "name": "Hechinger Report",
+    "zip": "10027",
+    "city_state": "New York, NY",
+    "coverage": "Innovation & Inequality in Education",
+    "website": "https://hechingerreport.org/",
+    "rss": "https://hechingerreport.org/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "High Country News",
+    "zip": "81625",
+    "city_state": "Paonia, CO",
+    "coverage": "Informing and inspiring action for West's diverse natural and human communities",
+    "website": "https://www.hcn.org/",
+    "rss": "https://www.hcn.org/feed",
+    "lat": 38.8683,
+    "lng": -107.5917
+  },
+  {
+    "name": "Hipertextual",
+    "zip": "28001",
+    "city_state": "Madrid, Spain",
+    "coverage": "Technology, science and digital culture",
+    "website": "https://hipertextual.com",
+    "rss": "https://hipertextual.com/feed",
+    "lat": 40.4168,
+    "lng": -3.7038
+  },
+  {
+    "name": "Hong Kong Free Press",
+    "zip": "999077",
+    "city_state": "Hong Kong",
+    "coverage": "Not-for-profit English independent news source for Hong Kong",
+    "website": "https://hongkongfp.com",
+    "rss": "https://hongkongfp.com/feed",
+    "lat": 22.3193,
+    "lng": 114.1694
+  },
+  {
+    "name": "Houston Defender Network",
+    "zip": "77004",
+    "city_state": "Houston, TX",
+    "coverage": "Best source for African-American news, entertainment and culture in Houston",
+    "website": "https://defendernetwork.com",
+    "rss": "https://defendernetwork.com/feed",
+    "lat": 29.7604,
+    "lng": -95.3698
+  },
+  {
+    "name": "Houston Herald",
+    "zip": "65483",
+    "city_state": "Houston, MO",
+    "coverage": "Award-winning newspaper for Houston Missouri and Texas County",
+    "website": "https://houstonherald.com",
+    "rss": "https://houstonherald.com/feed",
+    "lat": 37.3256,
+    "lng": -91.9557
+  },
+  {
+    "name": "Houston Press",
+    "zip": "77002",
+    "city_state": "Houston, TX",
+    "coverage": "The Leading Independent News Source in Houston, Texas",
+    "website": "https://www.houstonpress.com/",
+    "rss": "https://www.houstonpress.com/rss.xml",
+    "lat": 29.7604,
+    "lng": -95.3698
+  },
+  {
+    "name": "ICT News",
+    "zip": "85004",
+    "city_state": "Phoenix, AZ",
+    "coverage": "Native American facts, Indian news and service",
+    "website": "https://ictnews.org/",
+    "rss": "https://ictnews.org/feed",
+    "lat": 33.4484,
+    "lng": -112.074
+  },
+  {
+    "name": "Illinois Answer Project",
+    "zip": "60654",
+    "city_state": "Chicago, IL",
+    "coverage": "Informing engaging and mobilizing residents to generate and implement changes",
+    "website": "https://illinoisanswers.org/",
+    "rss": "https://illinoisanswers.org/feed",
+    "lat": 41.8781,
+    "lng": -87.6298
+  },
+  {
+    "name": "Illinois Times",
+    "zip": "62701",
+    "city_state": "Springfield, IL",
+    "coverage": "Alternative weekly newspaper based in Springfield, Illinois",
+    "website": "https://www.illinoistimes.com/",
+    "rss": "https://www.illinoistimes.com/feed",
+    "lat": 39.7817,
+    "lng": -89.6501
+  },
+  {
+    "name": "India Currents",
+    "zip": "95110",
+    "city_state": "San Jose, CA",
+    "coverage": "Nonprofit nonpartisan ethnic media for Indian American community in Bay Area",
+    "website": "https://indiacurrents.com/",
+    "rss": "https://indiacurrents.com/feed",
+    "lat": 37.3382,
+    "lng": -121.8863
+  },
+  {
+    "name": "INDY Week",
+    "zip": "27601",
+    "city_state": "Raleigh, NC",
+    "coverage": "Latest news, culture, music and progressive commentary for Triangle area",
+    "website": "https://indyweek.com",
+    "rss": "https://indyweek.com/feed",
+    "lat": 35.7796,
+    "lng": -78.6382
+  },
+  {
+    "name": "inewsource",
+    "zip": "92101",
+    "city_state": "San Diego, CA",
+    "coverage": "Nonprofit nonpartisan impactful data-based investigative journalism",
+    "website": "https://inewsource.org/",
+    "rss": "https://inewsource.org/feed",
+    "lat": 32.7157,
+    "lng": -117.1611
+  },
+  {
+    "name": "Injustice Watch",
+    "zip": "60601",
+    "city_state": "Chicago, IL",
+    "coverage": "Nonprofit journalism examining equity and justice in Chicago court system",
+    "website": "https://www.injusticewatch.org/",
+    "rss": "https://www.injusticewatch.org/feed",
+    "lat": 41.8781,
+    "lng": -87.6298
+  },
+  {
+    "name": "InSight Crime",
+    "zip": "10001",
+    "city_state": "New York, NY",
+    "coverage": "Foundation studying security threats in Latin America and Caribbean",
+    "website": "https://insightcrime.org/",
+    "rss": "https://insightcrime.org/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "Investigate Midwest",
+    "zip": "60654",
+    "city_state": "Chicago, IL",
+    "coverage": "Independent nonprofit exposing agricultural corporations through investigative journalism",
+    "website": "https://investigatemidwest.org/",
+    "rss": "https://investigatemidwest.org/feed",
+    "lat": 41.8781,
+    "lng": -87.6298
+  },
+  {
+    "name": "Island Times",
+    "zip": "96940",
+    "city_state": "Koror, Palau",
+    "coverage": "Family-run publication providing gateway to Palau news from Oceania",
+    "website": "https://islandtimes.org",
+    "rss": "https://islandtimes.org/feed",
+    "lat": 7.3419,
+    "lng": 134.4792
+  },
+  {
+    "name": "Ithaca Voice",
+    "zip": "14850",
+    "city_state": "Ithaca, NY",
+    "coverage": "Mission to improve civic and political understanding in Ithaca and Tompkins County",
+    "website": "https://ithacavoice.org/",
+    "rss": "https://ithacavoice.org/feed",
+    "lat": 42.444,
+    "lng": -76.502
+  },
+  {
+    "name": "Jersey City Times",
+    "zip": "07302",
+    "city_state": "Jersey City, NJ",
+    "coverage": "In-depth local news covering Jersey City politics, art, music and dining",
+    "website": "https://jcitytimes.com/",
+    "rss": "https://jcitytimes.com/feed",
+    "lat": 40.7178,
+    "lng": -74.0431
+  },
+  {
+    "name": "Kawowo Sports",
+    "zip": "00256",
+    "city_state": "Kampala, Uganda",
+    "coverage": "East Africa's largest sports website based in Uganda",
+    "website": "https://kawowo.com",
+    "rss": "https://kawowo.com/feed",
+    "lat": 0.3476,
+    "lng": 32.5825
+  },
+  {
+    "name": "Kent News, Inc",
+    "zip": "98032",
+    "city_state": "Kent, WA",
+    "coverage": "Non-partisan nonprofit news committed to building Kent community",
+    "website": "https://kentdispatch.org",
+    "rss": "https://kentdispatch.org/feed",
+    "lat": 47.3809,
+    "lng": -122.2348
+  },
+  {
+    "name": "Kikubo Lane",
+    "zip": "00256",
+    "city_state": "Kampala, Uganda",
+    "coverage": "Financial and business news from Uganda's fast growing content platform",
+    "website": "https://kikubolane.com/",
+    "rss": "https://kikubolane.com/feed",
+    "lat": 0.3476,
+    "lng": 32.5825
+  },
+  {
+    "name": "KLC Journal",
+    "zip": "67202",
+    "city_state": "Wichita, KS",
+    "coverage": "Magazine highlighting civic leadership issues in Kansas and beyond",
+    "website": "https://klcjournal.com/",
+    "rss": "https://klcjournal.com/feed",
+    "lat": 37.6872,
+    "lng": -97.3301
+  },
+  {
+    "name": "Knox Pages",
+    "zip": "43050",
+    "city_state": "Mount Vernon, OH",
+    "coverage": "Local independent online news for Knox County Ohio",
+    "website": "https://www.knoxpages.com/",
+    "rss": "https://www.knoxpages.com/feed",
+    "lat": 40.3934,
+    "lng": -82.4857
+  },
+  {
+    "name": "L.A. Focus Newspaper",
+    "zip": "90008",
+    "city_state": "Los Angeles, CA",
+    "coverage": "Amplifying Black community voices particularly the Black church",
+    "website": "https://www.lafocusnews.com/",
+    "rss": "https://www.lafocusnews.com/feed",
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  {
+    "name": "La Silla Vac\u00eda",
+    "zip": "110221",
+    "city_state": "Bogot\u00e1, Colombia",
+    "coverage": "Interactive medium for Colombian political current issues and power dynamics",
+    "website": "https://www.lasillavacia.com",
+    "rss": "https://www.lasillavacia.com/feed",
+    "lat": 4.711,
+    "lng": -74.0721
+  },
+  {
+    "name": "LatinFinance",
+    "zip": "33131",
+    "city_state": "Miami, FL",
+    "coverage": "Leading source of intelligence on Latin America and Caribbean financial markets",
+    "website": "https://latinfinance.com/",
+    "rss": "https://latinfinance.com/feed",
+    "lat": 25.7617,
+    "lng": -80.1918
+  },
+  {
+    "name": "LEO Weekly",
+    "zip": "40202",
+    "city_state": "Louisville, KY",
+    "coverage": "Louisville and Kentucky news, arts and culture coverage",
+    "website": "https://www.leoweekly.com/",
+    "rss": "https://www.leoweekly.com/feed",
+    "lat": 38.2527,
+    "lng": -85.7585
+  },
+  {
+    "name": "LINK nky",
+    "zip": "41011",
+    "city_state": "Covington, KY",
+    "coverage": "Largest newspaper covering Boone, Kenton and Campbell county Northern Kentucky",
+    "website": "https://linknky.com",
+    "rss": "https://linknky.com/feed",
+    "lat": 39.0837,
+    "lng": -84.5086
+  },
+  {
+    "name": "Little Village Magazine",
+    "zip": "52240",
+    "city_state": "Iowa City, IA",
+    "coverage": "Iowa's most widely read independent alternative news and culture outlet",
+    "website": "https://littlevillagemag.com/",
+    "rss": "https://littlevillagemag.com/feed",
+    "lat": 41.6611,
+    "lng": -91.5302
+  },
+  {
+    "name": "Livermore Vine",
+    "zip": "94550",
+    "city_state": "Livermore, CA",
+    "coverage": "Breaking local news by local journalists covering Livermore community",
+    "website": "https://www.livermorevine.com/",
+    "rss": "https://www.livermorevine.com/feed",
+    "lat": 37.6819,
+    "lng": -121.768
+  },
+  {
+    "name": "LkldNow",
+    "zip": "33801",
+    "city_state": "Lakeland, FL",
+    "coverage": "Free community supported journalism connecting Lakeland residents",
+    "website": "https://www.lkldnow.com/",
+    "rss": "https://www.lkldnow.com/feed",
+    "lat": 28.0395,
+    "lng": -81.9498
+  },
+  {
+    "name": "Local News Matters",
+    "zip": "94102",
+    "city_state": "San Francisco, CA",
+    "coverage": "Nonprofit community coverage for San Francisco Bay Area region",
+    "website": "https://www.localnewsmatters.org/",
+    "rss": "https://www.localnewsmatters.org/feed",
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  {
+    "name": "Longreads",
+    "zip": "90291",
+    "city_state": "Venice, CA",
+    "coverage": "Best storytelling on web featuring longform journalism and in-depth interviews",
+    "website": "https://longreads.com/",
+    "rss": "https://longreads.com/feed",
+    "lat": 33.985,
+    "lng": -118.4695
+  },
+  {
+    "name": "Lookout Eugene-Springfield",
+    "zip": "97401",
+    "city_state": "Eugene, OR",
+    "coverage": "Mobile-first intensely local community-centric news",
+    "website": "https://lookout.co/eugene-springfield/",
+    "rss": "https://lookout.co/eugene-springfield/feed",
+    "lat": 44.0521,
+    "lng": -123.0868
+  },
+  {
+    "name": "Lookout Santa Cruz",
+    "zip": "95060",
+    "city_state": "Santa Cruz, CA",
+    "coverage": "High-quality trustworthy non-partisan local news for Santa Cruz",
+    "website": "https://lookout.co/",
+    "rss": "https://lookout.co/feed",
+    "lat": 36.9741,
+    "lng": -122.0308
+  },
+  {
+    "name": "Lubbock Lights",
+    "zip": "79401",
+    "city_state": "Lubbock, TX",
+    "coverage": "Nonprofit delivering in-depth unbiased reporting on Lubbock and Texas South Plains",
+    "website": "https://lubbocklights.com/",
+    "rss": "https://lubbocklights.com/feed",
+    "lat": 33.5779,
+    "lng": -101.8552
+  },
+  {
+    "name": "MASSterList",
+    "zip": "02134",
+    "city_state": "Boston, MA",
+    "coverage": "Analysis of local politics and policy in Massachusetts",
+    "website": "https://massterlist.com/",
+    "rss": "https://massterlist.com/feed",
+    "lat": 42.3601,
+    "lng": -71.0589
+  },
+  {
+    "name": "Mbu",
+    "zip": "00256",
+    "city_state": "Kampala, Uganda",
+    "coverage": "Newsroom covering culture, style and fashion of Uganda",
+    "website": "https://mbu.ug/",
+    "rss": "https://mbu.ug/feed",
+    "lat": 0.3476,
+    "lng": 32.5825
+  },
+  {
+    "name": "MegaNews",
+    "zip": "06600",
+    "city_state": "Mexico City, Mexico",
+    "coverage": "Quality informative news about Mexico and the world",
+    "website": "https://meganews.mx/",
+    "rss": "https://meganews.mx/feed",
+    "lat": 19.4326,
+    "lng": -99.1332
+  },
+  {
+    "name": "Memphis Flyer",
+    "zip": "38103",
+    "city_state": "Memphis, TN",
+    "coverage": "Memphis' alternative newsweekly serving the metro Memphis area",
+    "website": "https://www.memphisflyer.com/",
+    "rss": "https://www.memphisflyer.com/feed",
+    "lat": 35.1495,
+    "lng": -90.049
+  },
+  {
+    "name": "Mensagem de Lisboa",
+    "zip": "1200",
+    "city_state": "Lisbon, Portugal",
+    "coverage": "Local community journalism with debates and live interviews in Lisbon",
+    "website": "https://amensagem.pt",
+    "rss": "https://amensagem.pt/feed",
+    "lat": 38.7223,
+    "lng": -9.1393
+  },
+  {
+    "name": "Metro Times",
+    "zip": "48226",
+    "city_state": "Detroit, MI",
+    "coverage": "Detroit's free source for news, arts and culture coverage",
+    "website": "https://www.metrotimes.com/",
+    "rss": "https://www.metrotimes.com/feed",
+    "lat": 42.3314,
+    "lng": -83.0458
+  },
+  {
+    "name": "Milwaukee Neighborhood News Service",
+    "zip": "53233",
+    "city_state": "Milwaukee, WI",
+    "coverage": "Nonprofit covering Milwaukee's diverse neighborhoods",
+    "website": "https://milwaukeenns.org/",
+    "rss": "https://milwaukeenns.org/feed",
+    "lat": 43.0389,
+    "lng": -87.9065
+  },
+  {
+    "name": "Minnesota Spokesman-Recorder",
+    "zip": "55404",
+    "city_state": "Minneapolis, MN",
+    "coverage": "Oldest Black-owned newspaper in Minnesota since founding",
+    "website": "https://spokesman-recorder.com/",
+    "rss": "https://spokesman-recorder.com/feed",
+    "lat": 44.9778,
+    "lng": -93.265
+  },
+  {
+    "name": "MinnPost",
+    "zip": "55401",
+    "city_state": "Minneapolis, MN",
+    "coverage": "Independent nonprofit producing in-depth journalism about civic and cultural Minnesota",
+    "website": "https://www.minnpost.com/",
+    "rss": "https://www.minnpost.com/feed",
+    "lat": 44.9778,
+    "lng": -93.265
+  },
+  {
+    "name": "Mirador Provincial",
+    "zip": "S3000",
+    "city_state": "Santa Fe, Argentina",
+    "coverage": "Latest news from Santa Fe, Entre R\u00edos and the region",
+    "website": "https://www.miradorprovincial.com/",
+    "rss": "https://www.miradorprovincial.com/feed",
+    "lat": -31.6333,
+    "lng": -60.7
+  },
+  {
+    "name": "Mirror Indy",
+    "zip": "46204",
+    "city_state": "Indianapolis, IN",
+    "coverage": "Community-based journalism empowering Indianapolis residents",
+    "website": "https://mirrorindy.org",
+    "rss": "https://mirrorindy.org/feed",
+    "lat": 39.7684,
+    "lng": -86.1581
+  },
+  {
+    "name": "Mission Local",
+    "zip": "94110",
+    "city_state": "San Francisco, CA",
+    "coverage": "News about SF's Mission District from tacos to tech culture to MUNI",
+    "website": "https://missionlocal.org",
+    "rss": "https://missionlocal.org/feed",
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  {
+    "name": "Mississippi Free Press",
+    "zip": "39201",
+    "city_state": "Jackson, MS",
+    "coverage": "Nonprofit media devoted to solutions journalism beyond partisanship",
+    "website": "https://www.mississippifreepress.org/",
+    "rss": "https://www.mississippifreepress.org/feed",
+    "lat": 32.2988,
+    "lng": -90.1848
+  },
+  {
+    "name": "MLK50",
+    "zip": "38126",
+    "city_state": "Memphis, TN",
+    "coverage": "Nonprofit examining intersection of poverty, power and policy in Memphis",
+    "website": "https://mlk50.com",
+    "rss": "https://mlk50.com/feed",
+    "lat": 35.1495,
+    "lng": -90.049
+  },
+  {
+    "name": "Monadnock Ledger-Transcript",
+    "zip": "03458",
+    "city_state": "Peterborough, NH",
+    "coverage": "Serves communities in southwestern New Hampshire",
+    "website": "https://ledgertranscript.com/",
+    "rss": "https://ledgertranscript.com/feed",
+    "lat": 42.8712,
+    "lng": -71.9525
+  },
+  {
+    "name": "Montana Free Press",
+    "zip": "59601",
+    "city_state": "Helena, MT",
+    "coverage": "Fact-based independent reader-supported journalism from Montana's digital newsroom",
+    "website": "https://montanafreepress.org/",
+    "rss": "https://montanafreepress.org/feed",
+    "lat": 46.5891,
+    "lng": -112.0391
+  },
+  {
+    "name": "Montclair Local",
+    "zip": "07042",
+    "city_state": "Montclair, NJ",
+    "coverage": "Independent local news building community through in-depth factual reporting",
+    "website": "https://montclairlocal.news/",
+    "rss": "https://montclairlocal.news/feed",
+    "lat": 40.8259,
+    "lng": -74.209
+  },
+  {
+    "name": "Mountain",
+    "zip": "84060",
+    "city_state": "Park City, UT",
+    "coverage": "Park City guide for restaurants, real estate and lifestyle",
+    "website": "https://mountainparkcity.com/",
+    "rss": "https://mountainparkcity.com/feed",
+    "lat": 40.6461,
+    "lng": -111.498
+  },
+  {
+    "name": "Mountain Journal",
+    "zip": "59047",
+    "city_state": "Bozeman, MT",
+    "coverage": "Environmental reporting from Greater Yellowstone Ecosystem",
+    "website": "https://mountainjournal.org/",
+    "rss": "https://mountainjournal.org/feed",
+    "lat": 45.677,
+    "lng": -111.0429
+  },
+  {
+    "name": "Mountain State Spotlight",
+    "zip": "25301",
+    "city_state": "Charleston, WV",
+    "coverage": "Independent civic news covering West Virginia issues and challenges",
+    "website": "https://mountainstatespotlight.org/",
+    "rss": "https://mountainstatespotlight.org/feed",
+    "lat": 38.3498,
+    "lng": -81.6326
+  },
+  {
+    "name": "Mountain View Voice",
+    "zip": "94041",
+    "city_state": "Mountain View, CA",
+    "coverage": "Award-winning journalism for Mountain View community",
+    "website": "https://www.mv-voice.com/",
+    "rss": "https://www.mv-voice.com/feed",
+    "lat": 37.3861,
+    "lng": -122.0839
+  },
+  {
+    "name": "Music Ally",
+    "zip": "EC1Y 8QE",
+    "city_state": "London, UK",
+    "coverage": "15+ years of information and data on global music business",
+    "website": "https://musically.com",
+    "rss": "https://musically.com/feed",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "name": "Mustang News",
+    "zip": "93407",
+    "city_state": "San Luis Obispo, CA",
+    "coverage": "Latest headlines from San Luis Obispo and Cal Poly",
+    "website": "https://mustangnews.net/",
+    "rss": "https://mustangnews.net/feed",
+    "lat": 35.2828,
+    "lng": -120.6596
+  },
+  {
+    "name": "My News LA",
+    "zip": "90012",
+    "city_state": "Los Angeles, CA",
+    "coverage": "Up-to-date news for 13 million greater Los Angeles residents",
+    "website": "https://mynewsla.com/",
+    "rss": "https://mynewsla.com/feed",
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  {
+    "name": "Nashville Banner",
+    "zip": "37203",
+    "city_state": "Nashville, TN",
+    "coverage": "Locally owned civic news empowering Nashville citizens through non-partisan journalism",
+    "website": "https://www.nashvillebanner.com/",
+    "rss": "https://www.nashvillebanner.com/feed",
+    "lat": 36.1627,
+    "lng": -86.7816
+  },
+  {
+    "name": "NC Local",
+    "zip": "27601",
+    "city_state": "Raleigh, NC",
+    "coverage": "Nonpartisan, nonprofit news strengthening local news access across North Carolina",
+    "website": "https://nclocal.org/",
+    "rss": "https://nclocal.org/feed",
+    "lat": 35.7796,
+    "lng": -78.6382
+  },
+  {
+    "name": "New Haven Independent",
+    "zip": "06510",
+    "city_state": "New Haven, CT",
+    "coverage": "Daily reports and public discussion about New Haven neighborhoods, government, and politics",
+    "website": "https://www.newhavenindependent.org/",
+    "rss": "https://www.newhavenindependent.org/feed",
+    "lat": 41.3083,
+    "lng": -72.9279
+  },
+  {
+    "name": "New Times San Luis Obispo",
+    "zip": "93401",
+    "city_state": "San Luis Obispo, CA",
+    "coverage": "San Luis Obispo County's news and entertainment weekly",
+    "website": "https://www.newtimesslo.com/",
+    "rss": "https://www.newtimesslo.com/feed",
+    "lat": 35.2828,
+    "lng": -120.6596
+  },
+  {
+    "name": "New York Amsterdam News",
+    "zip": "10027",
+    "city_state": "New York, NY",
+    "coverage": "New Black View within local, national and international news",
+    "website": "https://amsterdamnews.com/",
+    "rss": "https://amsterdamnews.com/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "News Is Out",
+    "zip": "10001",
+    "city_state": "New York, NY",
+    "coverage": "National collaborative of leading local queer news publishers",
+    "website": "https://newsisout.com/",
+    "rss": "https://newsisout.com/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "Newspress",
+    "zip": "93101",
+    "city_state": "Santa Barbara, CA",
+    "coverage": "Santa Barbara News-Press serving community for over 100 years",
+    "website": "https://www.newspress.com/",
+    "rss": "https://www.newspress.com/feed",
+    "lat": 34.4208,
+    "lng": -119.6982
+  },
+  {
+    "name": "Newsroom",
+    "zip": "6011",
+    "city_state": "Auckland, New Zealand",
+    "coverage": "Independent New Zealand-based news and current affairs",
+    "website": "https://newsroom.co.nz/",
+    "rss": "https://newsroom.co.nz/feed",
+    "lat": -36.8485,
+    "lng": 174.7633
+  },
+  {
+    "name": "Next Pittsburgh",
+    "zip": "15222",
+    "city_state": "Pittsburgh, PA",
+    "coverage": "Locally-owned business, is the must-read Pittsburgh publication",
+    "website": "https://nextpittsburgh.com/",
+    "rss": "https://nextpittsburgh.com/feed",
+    "lat": 40.439,
+    "lng": -79.997
+  },
+  {
+    "name": "NJ Urban News",
+    "zip": "07102",
+    "city_state": "Newark, NJ",
+    "coverage": "Black news source in the Garden State",
+    "website": "https://njurbannews.com/",
+    "rss": "https://njurbannews.com/feed",
+    "lat": 40.732,
+    "lng": -74.175
+  },
+  {
+    "name": "Noozhawk",
+    "zip": "93101",
+    "city_state": "Santa Barbara, CA",
+    "coverage": "Santa Barbara County's No. 1 source for online local news",
+    "website": "https://www.noozhawk.com/",
+    "rss": "https://www.noozhawk.com/feed",
+    "lat": 34.4208,
+    "lng": -119.6982
+  },
+  {
+    "name": "North Carolina Health News",
+    "zip": "27601",
+    "city_state": "Raleigh, NC",
+    "coverage": "Independent statewide news covering North Carolina health care",
+    "website": "https://www.northcarolinahealthnews.org/",
+    "rss": "https://www.northcarolinahealthnews.org/feed",
+    "lat": 35.7796,
+    "lng": -78.6382
+  },
+  {
+    "name": "North Coast Journal",
+    "zip": "95521",
+    "city_state": "Eureka, CA",
+    "coverage": "North Coast Journal of Politics, People and Art covering Humboldt County",
+    "website": "https://www.northcoastjournal.com/",
+    "rss": "https://www.northcoastjournal.com/feed",
+    "lat": 40.8021,
+    "lng": -124.1637
+  },
+  {
+    "name": "NOTICIAS PARA MUNICIPIOS",
+    "zip": "28001",
+    "city_state": "Madrid, Spain",
+    "coverage": "Daily politics, culture, sport and news for Madrid Community and municipalities",
+    "website": "https://noticiasparamunicipios.com",
+    "rss": "https://noticiasparamunicipios.com/feed",
+    "lat": 40.4168,
+    "lng": -3.7038
+  },
+  {
+    "name": "Oil City News",
+    "zip": "82601",
+    "city_state": "Casper, WY",
+    "coverage": "Nonpartisan independent newsroom covering Central Wyoming",
+    "website": "https://oilcity.news/",
+    "rss": "https://oilcity.news/feed",
+    "lat": 42.8666,
+    "lng": -106.3131
+  },
+  {
+    "name": "Oklahoma Gazette",
+    "zip": "73102",
+    "city_state": "Oklahoma City, OK",
+    "coverage": "Examines local quality-of-life issues and social needs in Oklahoma City",
+    "website": "https://www.okgazette.com/",
+    "rss": "https://www.okgazette.com/feed",
+    "lat": 35.4676,
+    "lng": -97.5164
+  },
+  {
+    "name": "Oklahoma Watch",
+    "zip": "73102",
+    "city_state": "Oklahoma City, OK",
+    "coverage": "Award-winning nonprofit investigative journalism on Oklahoma public policy",
+    "website": "https://oklahomawatch.org",
+    "rss": "https://oklahomawatch.org/feed",
+    "lat": 35.4676,
+    "lng": -97.5164
+  },
+  {
+    "name": "Orlando Weekly",
+    "zip": "32801",
+    "city_state": "Orlando, FL",
+    "coverage": "Orlando and Florida news, arts and culture coverage",
+    "website": "https://www.orlandoweekly.com/",
+    "rss": "https://www.orlandoweekly.com/feed",
+    "lat": 28.5383,
+    "lng": -81.3792
+  },
+  {
+    "name": "Orthopedics This Week",
+    "zip": "92109",
+    "city_state": "San Diego, CA",
+    "coverage": "Breaking news in orthopedic surgery and musculoskeletal health",
+    "website": "https://ryortho.com/",
+    "rss": "https://ryortho.com/feed",
+    "lat": 32.7157,
+    "lng": -117.1611
+  },
+  {
+    "name": "Our Weekly",
+    "zip": "90008",
+    "city_state": "Los Angeles, CA",
+    "coverage": "200,000 weekly readership covering local, state, national and political news",
+    "website": "https://www.ourweekly.com/",
+    "rss": "https://www.ourweekly.com/feed",
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  {
+    "name": "Outlier Media",
+    "zip": "48201",
+    "city_state": "Detroit, MI",
+    "coverage": "Groundbreaking nonprofit newsroom centering Detroiters' needs",
+    "website": "https://outliermedia.org/",
+    "rss": "https://outliermedia.org/feed",
+    "lat": 42.3314,
+    "lng": -83.0458
+  },
+  {
+    "name": "Palo Alto Online",
+    "zip": "94301",
+    "city_state": "Palo Alto, CA",
+    "coverage": "Online hub for Palo Alto community events, resources and interaction",
+    "website": "https://www.paloaltoonline.com/",
+    "rss": "https://www.paloaltoonline.com/feed",
+    "lat": 37.4419,
+    "lng": -122.143
+  },
+  {
+    "name": "Park Record",
+    "zip": "84060",
+    "city_state": "Park City, UT",
+    "coverage": "Serving Summit County Utah since 1880",
+    "website": "https://www.parkrecord.com/",
+    "rss": "https://www.parkrecord.com/feed",
+    "lat": 40.6461,
+    "lng": -111.498
+  },
+  {
+    "name": "Patagonia Regional Times",
+    "zip": "85624",
+    "city_state": "Patagonia, AZ",
+    "coverage": "Reliable news for Eastern Santa Cruz County Arizona communities",
+    "website": "https://patagoniaregionaltimes.org",
+    "rss": "https://patagoniaregionaltimes.org/feed",
+    "lat": 31.5393,
+    "lng": -110.7556
+  },
+  {
+    "name": "Peri\u00f3dico AM",
+    "zip": "37000",
+    "city_state": "Le\u00f3n, Guanajuato, Mexico",
+    "coverage": "Regional news serving the State of Guanajuato, Mexico",
+    "website": "https://www.am.com.mx/",
+    "rss": "https://www.am.com.mx/feed",
+    "lat": 21.1236,
+    "lng": -101.6827
+  },
+  {
+    "name": "Philadelphia Gay News",
+    "zip": "19107",
+    "city_state": "Philadelphia, PA",
+    "coverage": "Delivering LGBTQ+ news since 1976",
+    "website": "https://epgn.com/",
+    "rss": "https://epgn.com/feed",
+    "lat": 39.9526,
+    "lng": -75.1652
+  },
+  {
+    "name": "Philippine Center for Investigative Journalism",
+    "zip": "1000",
+    "city_state": "Manila, Philippines",
+    "coverage": "Eagle-eyed investigative journalism illuminating truth in Philippines",
+    "website": "https://pcij.org",
+    "rss": "https://pcij.org/feed",
+    "lat": 14.5995,
+    "lng": 120.9842
+  },
+  {
+    "name": "Philomath News",
+    "zip": "97370",
+    "city_state": "Philomath, OR",
+    "coverage": "Community-supported news for Philomath Oregon",
+    "website": "https://philomathnews.com/",
+    "rss": "https://philomathnews.com/feed",
+    "lat": 44.5401,
+    "lng": -123.3679
+  },
+  {
+    "name": "Pittsburgh City Paper",
+    "zip": "15222",
+    "city_state": "Pittsburgh, PA",
+    "coverage": "Pittsburgh's alternative newspaper featuring news, dining, music, film, arts and culture",
+    "website": "https://www.pghcitypaper.com/",
+    "rss": "https://www.pghcitypaper.com/feed",
+    "lat": 40.4406,
+    "lng": -79.9959
+  },
+  {
+    "name": "Pleasanton Weekly",
+    "zip": "94566",
+    "city_state": "Pleasanton, CA",
+    "coverage": "Online information service covering Pleasanton current events and community",
+    "website": "https://www.pleasantonweekly.com/",
+    "rss": "https://www.pleasantonweekly.com/feed",
+    "lat": 37.6624,
+    "lng": -121.8747
+  },
+  {
+    "name": "Prism",
+    "zip": "11201",
+    "city_state": "Brooklyn, NY",
+    "coverage": "BIPOC-led nonprofit centering underreported people, places and issues",
+    "website": "https://prismreports.org",
+    "rss": "https://prismreports.org/feed",
+    "lat": 40.6782,
+    "lng": -73.9442
+  },
+  {
+    "name": "Prison Journalism Project",
+    "zip": "94102",
+    "city_state": "San Francisco, CA",
+    "coverage": "Giving incarcerated journalists voice in criminal justice reform discussions",
+    "website": "https://prisonjournalismproject.org/",
+    "rss": "https://prisonjournalismproject.org/feed",
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  {
+    "name": "Public Good News",
+    "zip": "20036",
+    "city_state": "Washington, DC",
+    "coverage": "Partnering with local voices to distribute accessible health news",
+    "website": "https://publicgoodnews.com/",
+    "rss": "https://publicgoodnews.com/feed",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  {
+    "name": "Public Health Watch",
+    "zip": "20036",
+    "city_state": "Washington, DC",
+    "coverage": "Nonprofit nonpartisan investigative news on threats to America's well-being",
+    "website": "https://publichealthwatch.org/",
+    "rss": "https://publichealthwatch.org/feed",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  {
+    "name": "PublicSource",
+    "zip": "15222",
+    "city_state": "Pittsburgh, PA",
+    "coverage": "Nonprofit inspiring critical thinking through journalism rooted in facts",
+    "website": "https://www.publicsource.org/",
+    "rss": "https://www.publicsource.org/feed",
+    "lat": 40.4406,
+    "lng": -79.9959
+  },
+  {
+    "name": "Qnotes",
+    "zip": "28202",
+    "city_state": "Charlotte, NC",
+    "coverage": "Charlotte LGBTQ community newspaper of Carolinas for 35+ years",
+    "website": "https://qnotescarolinas.com",
+    "rss": "https://qnotescarolinas.com/feed",
+    "lat": 35.2271,
+    "lng": -80.8431
+  },
+  {
+    "name": "Que Pasa Media",
+    "zip": "27701",
+    "city_state": "Durham, NC",
+    "coverage": "Link to and voice of Hispanic community in North Carolina",
+    "website": "https://quepasamedia.com",
+    "rss": "https://quepasamedia.com/feed",
+    "lat": 35.994,
+    "lng": -78.8986
+  },
+  {
+    "name": "Racine County Eye",
+    "zip": "53402",
+    "city_state": "Racine, WI",
+    "coverage": "Online news delivering timely updates for eastern Racine County",
+    "website": "https://racinecountyeye.com",
+    "rss": "https://racinecountyeye.com/feed",
+    "lat": 42.7261,
+    "lng": -87.7829
+  },
+  {
+    "name": "Rafu Shimpo",
+    "zip": "90012",
+    "city_state": "Los Angeles, CA",
+    "coverage": "Nation's leading Japanese American newspaper serving LA since 1903",
+    "website": "https://rafu.com",
+    "rss": "https://rafu.com/feed",
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  {
+    "name": "Redwood City Pulse",
+    "zip": "94063",
+    "city_state": "Redwood City, CA",
+    "coverage": "Breaking news and important community issues by local journalists",
+    "website": "https://www.rwcpulse.com/",
+    "rss": "https://www.rwcpulse.com/feed",
+    "lat": 37.4852,
+    "lng": -122.2364
+  },
+  {
+    "name": "Reno News & Review",
+    "zip": "89501",
+    "city_state": "Reno, NV",
+    "coverage": "Alternative news voice for Reno, Sparks and Northern Nevada since 1995",
+    "website": "https://renonr.com/",
+    "rss": "https://renonr.com/feed",
+    "lat": 39.5296,
+    "lng": -119.8138
+  },
+  {
+    "name": "Retro Report",
+    "zip": "10010",
+    "city_state": "New York, NY",
+    "coverage": "Independent nonprofit creating documentary videos examining stories after headlines",
+    "website": "https://retroreport.org/",
+    "rss": "https://retroreport.org/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "Reveal",
+    "zip": "94612",
+    "city_state": "Oakland, CA",
+    "coverage": "Investigative journalism and storytelling sparking action and protecting democracy",
+    "website": "https://revealnews.org",
+    "rss": "https://revealnews.org/feed",
+    "lat": 37.8044,
+    "lng": -122.2712
+  },
+  {
+    "name": "Richland Source",
+    "zip": "44902",
+    "city_state": "Mansfield, OH",
+    "coverage": "Serving North Central Ohio citizens through community involvement",
+    "website": "https://www.richlandsource.com/",
+    "rss": "https://www.richlandsource.com/feed",
+    "lat": 40.7584,
+    "lng": -82.5154
+  },
+  {
+    "name": "Richmondside",
+    "zip": "94801",
+    "city_state": "Richmond, CA",
+    "coverage": "Local nonprofit news covering Richmond California city government and community",
+    "website": "https://richmondside.org",
+    "rss": "https://richmondside.org/feed",
+    "lat": 37.9358,
+    "lng": -122.3477
+  },
+  {
+    "name": "Riverside/Brookfield Landmark",
+    "zip": "60546",
+    "city_state": "Riverside, IL",
+    "coverage": "Weekly newspaper serving Brookfield and Riverside in Cook County Illinois",
+    "website": "https://rblandmark.com",
+    "rss": "https://rblandmark.com/feed",
+    "lat": 41.837,
+    "lng": -87.8242
+  },
+  {
+    "name": "Roosevelt Islander Online",
+    "zip": "10044",
+    "city_state": "Roosevelt Island, NY",
+    "coverage": "News for Roosevelt Island in East River between Manhattan and Queens",
+    "website": "https://rooseveltislander.com/",
+    "rss": "https://rooseveltislander.com/feed",
+    "lat": 40.7608,
+    "lng": -73.9501
+  },
+  {
+    "name": "Rough Draft Atlanta",
+    "zip": "30303",
+    "city_state": "Atlanta, GA",
+    "coverage": "Hyperlocal content for dynamic Atlanta metro communities",
+    "website": "https://reporternewspapers.net",
+    "rss": "https://reporternewspapers.net/feed",
+    "lat": 33.749,
+    "lng": -84.388
+  },
+  {
+    "name": "Sahan Journal",
+    "zip": "55404",
+    "city_state": "Minneapolis, MN",
+    "coverage": "Nonprofit news organization serving Minnesota's immigrants and communities of color",
+    "website": "https://sahanjournal.com",
+    "rss": "https://sahanjournal.com/feed",
+    "lat": 44.9778,
+    "lng": -93.265
+  },
+  {
+    "name": "San Antonio Current",
+    "zip": "78205",
+    "city_state": "San Antonio, TX",
+    "coverage": "San Antonio politics, music, nightlife, food, arts and culture",
+    "website": "https://www.sacurrent.com/",
+    "rss": "https://www.sacurrent.com/feed",
+    "lat": 29.4241,
+    "lng": -98.4936
+  },
+  {
+    "name": "San Antonio Report",
+    "zip": "78205",
+    "city_state": "San Antonio, TX",
+    "coverage": "Nonprofit Journalism for A Better San Antonio",
+    "website": "https://sanantonioreport.org",
+    "rss": "https://sanantonioreport.org/feed",
+    "lat": 29.4241,
+    "lng": -98.4936
+  },
+  {
+    "name": "San Diego Documenters",
+    "zip": "92101",
+    "city_state": "San Diego, CA",
+    "coverage": "inewsource program gathering information from local governments",
+    "website": "https://sandiegodocumenters.org/",
+    "rss": "https://sandiegodocumenters.org/feed",
+    "lat": 32.7157,
+    "lng": -117.1611
+  },
+  {
+    "name": "San Fernando Sun",
+    "zip": "91340",
+    "city_state": "San Fernando, CA",
+    "coverage": "Insightful editorial and community involvement for San Fernando area",
+    "website": "https://sanfernandosun.com",
+    "rss": "https://sanfernandosun.com/feed",
+    "lat": 34.2819,
+    "lng": -118.439
+  },
+  {
+    "name": "San Francisco Public Press",
+    "zip": "94102",
+    "city_state": "San Francisco, CA",
+    "coverage": "Independent investigative reporting for SF Bay Area since 2009",
+    "website": "https://www.sfpublicpress.org/",
+    "rss": "https://www.sfpublicpress.org/feed",
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  {
+    "name": "Santa Maria Sun",
+    "zip": "93454",
+    "city_state": "Santa Maria, CA",
+    "coverage": "Northern Santa Barbara County News & Entertainment Weekly",
+    "website": "https://www.santamariasun.com/",
+    "rss": "https://www.santamariasun.com/feed",
+    "lat": 34.953,
+    "lng": -120.4357
+  },
+  {
+    "name": "SaportaReport",
+    "zip": "30303",
+    "city_state": "Atlanta, GA",
+    "coverage": "Valued voices sharing insights about Atlanta and beyond",
+    "website": "https://saportareport.com/",
+    "rss": "https://saportareport.com/feed",
+    "lat": 33.749,
+    "lng": -84.388
+  },
+  {
+    "name": "Sauce Magazine",
+    "zip": "63103",
+    "city_state": "St. Louis, MO",
+    "coverage": "Unbiased information on the St. Louis restaurant and bar scene",
+    "website": "https://www.saucemagazine.com/",
+    "rss": "https://www.saucemagazine.com/feed",
+    "lat": 38.627,
+    "lng": -90.1994
+  },
+  {
+    "name": "Searchlight New Mexico",
+    "zip": "87501",
+    "city_state": "Santa Fe, NM",
+    "coverage": "Nonpartisan nonprofit investigative journalism for New Mexico people",
+    "website": "https://searchlightnm.org/",
+    "rss": "https://searchlightnm.org/feed",
+    "lat": 35.687,
+    "lng": -105.9378
+  },
+  {
+    "name": "Seattle Metro News",
+    "zip": "98118",
+    "city_state": "Seattle, WA",
+    "coverage": "Trusted news source for Central and Southeast Seattle communities",
+    "website": "https://seattlemetronews.com",
+    "rss": "https://seattlemetronews.com/feed",
+    "lat": 47.6062,
+    "lng": -122.3321
+  },
+  {
+    "name": "Seven Days",
+    "zip": "05401",
+    "city_state": "Burlington, VT",
+    "coverage": "Vermont newspaper covering news, politics, food, arts, music and culture",
+    "website": "https://www.sevendaysvt.com/",
+    "rss": "https://www.sevendaysvt.com/feed",
+    "lat": 44.4759,
+    "lng": -73.2121
+  },
+  {
+    "name": "Signal Akron",
+    "zip": "44308",
+    "city_state": "Akron, OH",
+    "coverage": "Nonprofit newsroom providing Akron residents with needed news",
+    "website": "https://signalakron.org/",
+    "rss": "https://signalakron.org/feed",
+    "lat": 41.0814,
+    "lng": -81.519
+  },
+  {
+    "name": "Signal Cincinnati",
+    "zip": "45202",
+    "city_state": "Cincinnati, OH",
+    "coverage": "Nonprofit community-centered news organization",
+    "website": "https://signalcincinnati.org/",
+    "rss": "https://signalcincinnati.org/feed",
+    "lat": 39.1031,
+    "lng": -84.512
+  },
+  {
+    "name": "Signal Cleveland",
+    "zip": "44113",
+    "city_state": "Cleveland, OH",
+    "coverage": "Nonprofit newsroom serving Greater Cleveland with needed local news",
+    "website": "https://signalcleveland.org/",
+    "rss": "https://signalcleveland.org/feed",
+    "lat": 41.4993,
+    "lng": -81.6944
+  },
+  {
+    "name": "Signal Ohio",
+    "zip": "43215",
+    "city_state": "Columbus, OH",
+    "coverage": "Nonprofit newsroom ensuring every Ohio resident has needed local news",
+    "website": "https://signalohio.org/",
+    "rss": "https://signalohio.org/feed",
+    "lat": 39.9612,
+    "lng": -82.9988
+  },
+  {
+    "name": "Soccer America",
+    "zip": "94102",
+    "city_state": "San Francisco, CA",
+    "coverage": "Covering US, International, MLS, College, Youth and World Cup Soccer",
+    "website": "https://www.socceramerica.com/",
+    "rss": "https://www.socceramerica.com/feed",
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  {
+    "name": "South Tahoe Now",
+    "zip": "96150",
+    "city_state": "South Lake Tahoe, CA",
+    "coverage": "Local news serving South Lake Tahoe community",
+    "website": "https://southtahoenow.com/",
+    "rss": "https://southtahoenow.com/feed",
+    "lat": 38.9399,
+    "lng": -119.9772
+  },
+  {
+    "name": "Southern Maryland Chronicle",
+    "zip": "20678",
+    "city_state": "Port Tobacco, MD",
+    "coverage": "All-digital news source for Southern Maryland Atlantic seaboard",
+    "website": "https://southernmarylandchronicle.com/",
+    "rss": "https://southernmarylandchronicle.com/feed",
+    "lat": 38.4904,
+    "lng": -77.0419
+  },
+  {
+    "name": "Southwest Regional Publishing",
+    "zip": "60632",
+    "city_state": "Chicago, IL",
+    "coverage": "Local news for Chicago's Southwest Side and Southwest Suburbs",
+    "website": "https://southwestregionalpublishing.com/",
+    "rss": "https://southwestregionalpublishing.com/feed",
+    "lat": 41.8781,
+    "lng": -87.6298
+  },
+  {
+    "name": "SpaceNews",
+    "zip": "20036",
+    "city_state": "Washington, DC",
+    "coverage": "Trusted source of news analyzing global space industry since 1989",
+    "website": "https://spacenews.com/",
+    "rss": "https://spacenews.com/feed",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  {
+    "name": "SpaceQ",
+    "zip": "K1P 5G4",
+    "city_state": "Ottawa, ON",
+    "coverage": "Canadian and global space news, market intelligence and podcasts",
+    "website": "https://spaceq.ca/",
+    "rss": "https://spaceq.ca/feed",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "name": "Spotlight Delaware",
+    "zip": "19801",
+    "city_state": "Wilmington, DE",
+    "coverage": "Nonprofit investigative journalism serving underrepresented Delaware communities",
+    "website": "https://spotlightdelaware.org/",
+    "rss": "https://spotlightdelaware.org/feed",
+    "lat": 39.7391,
+    "lng": -75.5398
+  },
+  {
+    "name": "Springfield Business Journal",
+    "zip": "62701",
+    "city_state": "Springfield, IL",
+    "coverage": "Business publication serving central Illinois",
+    "website": "https://www.springfieldbusinessjournal.com/",
+    "rss": "https://www.springfieldbusinessjournal.com/feed",
+    "lat": 39.7817,
+    "lng": -89.6501
+  },
+  {
+    "name": "Springfield Daily Citizen",
+    "zip": "65806",
+    "city_state": "Springfield, MO",
+    "coverage": "Nonprofit independent online news bringing unbiased Springfield coverage",
+    "website": "https://sgfcitizen.org",
+    "rss": "https://sgfcitizen.org/feed",
+    "lat": 37.209,
+    "lng": -93.2923
+  },
+  {
+    "name": "Stocktonia",
+    "zip": "95202",
+    "city_state": "Stockton, CA",
+    "coverage": "Rigorous factual ethical coverage of greater Stockton California",
+    "website": "https://stocktonia.org/",
+    "rss": "https://stocktonia.org/feed",
+    "lat": 37.9577,
+    "lng": -121.2908
+  },
+  {
+    "name": "Streetcar Suburbs",
+    "zip": "20740",
+    "city_state": "College Park, MD",
+    "coverage": "Local news connecting municipalities in Prince George's county",
+    "website": "https://streetcarsuburbs.news",
+    "rss": "https://streetcarsuburbs.news/feed",
+    "lat": 38.9807,
+    "lng": -76.9369
+  },
+  {
+    "name": "TechNode",
+    "zip": "100000",
+    "city_state": "Beijing, China",
+    "coverage": "Best place to stay up to date with China tech news and analysis",
+    "website": "https://technode.com",
+    "rss": "https://technode.com/feed",
+    "lat": 39.9042,
+    "lng": 116.4074
+  },
+  {
+    "name": "The Almanac",
+    "zip": "94025",
+    "city_state": "Menlo Park, CA",
+    "coverage": "Community news for Menlo Park, Atherton, Portola Valley and Woodside",
+    "website": "https://www.almanacnews.com/",
+    "rss": "https://www.almanacnews.com/feed",
+    "lat": 37.453,
+    "lng": -122.1817
+  },
+  {
+    "name": "The American Prospect",
+    "zip": "20005",
+    "city_state": "Washington, DC",
+    "coverage": "Informed analysis of public policy and politics from a progressive perspective",
+    "website": "https://prospect.org/",
+    "rss": "https://prospect.org/feed",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  {
+    "name": "The Assembly",
+    "zip": "27601",
+    "city_state": "Raleigh, NC",
+    "coverage": "Digital magazine about people, institutions and ideas shaping North Carolina",
+    "website": "https://www.theassemblync.com/",
+    "rss": "https://www.theassemblync.com/feed",
+    "lat": 35.7796,
+    "lng": -78.6382
+  },
+  {
+    "name": "The Atavist Magazine",
+    "zip": "11222",
+    "city_state": "Brooklyn, NY",
+    "coverage": "Publishing one incredible true longform narrative story every month",
+    "website": "https://magazine.atavist.com/",
+    "rss": "https://magazine.atavist.com/feed",
+    "lat": 40.7282,
+    "lng": -73.9442
+  },
+  {
+    "name": "The Atlanta Voice",
+    "zip": "30303",
+    "city_state": "Atlanta, GA",
+    "coverage": "Unchallenged leader providing news for Atlanta's African American community",
+    "website": "https://theatlantavoice.com/",
+    "rss": "https://theatlantavoice.com/feed",
+    "lat": 33.749,
+    "lng": -84.388
+  },
+  {
+    "name": "The Austin Chronicle",
+    "zip": "78701",
+    "city_state": "Austin, TX",
+    "coverage": "Independent alternative newsweekly reflecting the heart and soul of Austin",
+    "website": "https://www.austinchronicle.com/",
+    "rss": "https://www.austinchronicle.com/feeds/rss/",
+    "lat": 30.2672,
+    "lng": -97.7431
+  },
+  {
+    "name": "The Baltimore Times",
+    "zip": "21202",
+    "city_state": "Baltimore, MD",
+    "coverage": "Positive stories about positive people in Baltimore",
+    "website": "https://baltimoretimes-online.com/",
+    "rss": "https://baltimoretimes-online.com/feed",
+    "lat": 39.2904,
+    "lng": -76.6122
+  },
+  {
+    "name": "The Barbed Wire",
+    "zip": "78701",
+    "city_state": "Austin, TX",
+    "coverage": "Next-generation digital media for all Texans who love Texas",
+    "website": "https://thebarbedwire.com/",
+    "rss": "https://thebarbedwire.com/feed",
+    "lat": 30.2672,
+    "lng": -97.7431
+  },
+  {
+    "name": "The Bay Net",
+    "zip": "20653",
+    "city_state": "Leonardtown, MD",
+    "coverage": "No. 1 News Source in Southern Maryland",
+    "website": "https://thebaynet.com/",
+    "rss": "https://thebaynet.com/feed",
+    "lat": 38.2912,
+    "lng": -76.6358
+  },
+  {
+    "name": "The Beacon",
+    "zip": "64108",
+    "city_state": "Kansas City, MO",
+    "coverage": "Nonprofit focused on revelatory contextual data-driven journalism in Kansas and Missouri",
+    "website": "https://thebeacon.media",
+    "rss": "https://thebeacon.media/feed",
+    "lat": 39.0997,
+    "lng": -94.5786
+  },
+  {
+    "name": "The Big Bend Sentinel",
+    "zip": "79830",
+    "city_state": "Marfa, TX",
+    "coverage": "News for Presidio, Brewster and Jeff Davis counties in Far West Texas",
+    "website": "https://bigbendsentinel.com/",
+    "rss": "https://bigbendsentinel.com/feed",
+    "lat": 30.3083,
+    "lng": -104.0183
+  },
+  {
+    "name": "The Black Wall Street Times",
+    "zip": "74120",
+    "city_state": "Tulsa, OK",
+    "coverage": "National news from Black perspectives HQ in Tulsa's Greenwood District",
+    "website": "https://theblackwallsttimes.com/",
+    "rss": "https://theblackwallsttimes.com/feed",
+    "lat": 36.154,
+    "lng": -95.9928
+  },
+  {
+    "name": "The Catholic Times",
+    "zip": "43215",
+    "city_state": "Columbus, OH",
+    "coverage": "Official news source for the Diocese of Columbus",
+    "website": "https://catholictimescolumbus.org/",
+    "rss": "https://catholictimescolumbus.org/feed",
+    "lat": 39.9612,
+    "lng": -82.9988
+  },
+  {
+    "name": "The Cincinnati Herald",
+    "zip": "45202",
+    "city_state": "Cincinnati, OH",
+    "coverage": "Leading African American publication of Cincinnati",
+    "website": "https://thecincinnatiherald.com/",
+    "rss": "https://thecincinnatiherald.com/feed",
+    "lat": 39.1031,
+    "lng": -84.512
+  },
+  {
+    "name": "The City",
+    "zip": "10004",
+    "city_state": "New York, NY",
+    "coverage": "Independent Investigative Journalism",
+    "website": "https://www.thecity.nyc",
+    "rss": "https://www.thecity.nyc/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "The Coast",
+    "zip": "B3J 1N9",
+    "city_state": "Halifax, NS",
+    "coverage": "Award-winning independent newspaper covering Halifax news, politics, and culture",
+    "website": "https://www.thecoast.ca/",
+    "rss": "https://www.thecoast.ca/feed",
+    "lat": 44.6488,
+    "lng": -63.5752
+  },
+  {
+    "name": "The Colorado Sun",
+    "zip": "80202",
+    "city_state": "Denver, CO",
+    "coverage": "Journalist-owned award-winning news covering all of Colorado",
+    "website": "https://coloradosun.com",
+    "rss": "https://coloradosun.com/feed",
+    "lat": 39.7392,
+    "lng": -104.9903
+  },
+  {
+    "name": "The Community Voice",
+    "zip": "66612",
+    "city_state": "Topeka, KS",
+    "coverage": "Trusted source for African-American communities of Kansas and Kansas City metro",
+    "website": "https://www.communityvoiceks.com/",
+    "rss": "https://www.communityvoiceks.com/feed",
+    "lat": 39.0558,
+    "lng": -95.689
+  },
+  {
+    "name": "The Concord Insider",
+    "zip": "03301",
+    "city_state": "Concord, NH",
+    "coverage": "Concord NH community news since 2006",
+    "website": "https://www.theconcordinsider.com/",
+    "rss": "https://www.theconcordinsider.com/feed",
+    "lat": 43.2081,
+    "lng": -71.5376
+  },
+  {
+    "name": "The Coronado News",
+    "zip": "92118",
+    "city_state": "Coronado, CA",
+    "coverage": "24-hour news covering Coronado government, schools, businesses and Navy",
+    "website": "https://thecoronadonews.com/",
+    "rss": "https://thecoronadonews.com/feed",
+    "lat": 32.6859,
+    "lng": -117.1831
+  },
+  {
+    "name": "The Current",
+    "zip": "31401",
+    "city_state": "Savannah, GA",
+    "coverage": "Nonprofit news website focused on issues affecting Savannah and Coastal Georgia",
+    "website": "https://thecurrentga.org/",
+    "rss": "https://thecurrentga.org/feed",
+    "lat": 32.0809,
+    "lng": -81.0912
+  },
+  {
+    "name": "The Dallas Examiner",
+    "zip": "75215",
+    "city_state": "Dallas, TX",
+    "coverage": "Leading African American newspaper in Dallas/Fort Worth since 1986",
+    "website": "https://dallasexaminer.com",
+    "rss": "https://dallasexaminer.com/feed",
+    "lat": 32.7767,
+    "lng": -96.797
+  },
+  {
+    "name": "The Emancipator",
+    "zip": "02116",
+    "city_state": "Boston, MA",
+    "coverage": "Exposing racial inequity and injustice exploring solutions for abolition",
+    "website": "https://theemancipator.org/",
+    "rss": "https://theemancipator.org/feed",
+    "lat": 42.3601,
+    "lng": -71.0589
+  },
+  {
+    "name": "The Escape Home",
+    "zip": "10001",
+    "city_state": "New York, NY",
+    "coverage": "Real estate, decor and travel meet for dream homes and weekend retreats",
+    "website": "https://theescapehome.com/",
+    "rss": "https://theescapehome.com/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "The Fifth Estate",
+    "zip": "3000",
+    "city_state": "Melbourne, Australia",
+    "coverage": "Online newspaper for sustainable built environment published from Australia",
+    "website": "https://thefifthestate.com.au",
+    "rss": "https://thefifthestate.com.au/feed",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "The Frisc",
+    "zip": "94102",
+    "city_state": "San Francisco, CA",
+    "coverage": "Publication devoted to San Francisco sharing voices and stories",
+    "website": "https://thefrisc.com/",
+    "rss": "https://thefrisc.com/feed",
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  {
+    "name": "The Greensboro Thread",
+    "zip": "27401",
+    "city_state": "Greensboro, NC",
+    "coverage": "Local news and community coverage across Greensboro and surrounding North Carolina region",
+    "website": "https://greensborothread.com/",
+    "rss": "https://greensborothread.com/feed",
+    "lat": 36.0726,
+    "lng": -79.792
+  },
+  {
+    "name": "The LA Local",
+    "zip": "90012",
+    "city_state": "Los Angeles, CA",
+    "coverage": "Nonprofit news organization dedicated to community-centered journalism in Los Angeles",
+    "website": "https://thelalocal.org/",
+    "rss": "https://thelalocal.org/feed",
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  {
+    "name": "The Lexington Observer",
+    "zip": "02420",
+    "city_state": "Lexington, MA",
+    "coverage": "Providing important Lexington community information beyond pandemic",
+    "website": "https://lexobserver.org/",
+    "rss": "https://lexobserver.org/feed",
+    "lat": 42.4473,
+    "lng": -71.2245
+  },
+  {
+    "name": "The Line",
+    "zip": "27511",
+    "city_state": "Cary, NC",
+    "coverage": "Local news, politics coverage, and in-depth reporting from Western Wake County, North Carolina",
+    "website": "https://westernwakenc.com",
+    "rss": "https://westernwakenc.com/feed",
+    "lat": 35.7915,
+    "lng": -78.7811
+  },
+  {
+    "name": "The Marjorie",
+    "zip": "33131",
+    "city_state": "Miami, FL",
+    "coverage": "Florida's first reporting outlet on social justice and environment intersection",
+    "website": "https://themarjorie.org/",
+    "rss": "https://themarjorie.org/feed",
+    "lat": 25.7617,
+    "lng": -80.1918
+  },
+  {
+    "name": "The Mendocino Voice",
+    "zip": "95482",
+    "city_state": "Ukiah, CA",
+    "coverage": "Local worker-owned news service for Mendocino County California",
+    "website": "https://mendovoice.com/",
+    "rss": "https://mendovoice.com/feed",
+    "lat": 39.1502,
+    "lng": -123.2078
+  },
+  {
+    "name": "The Merced FOCUS",
+    "zip": "95340",
+    "city_state": "Merced, CA",
+    "coverage": "Timely updates and engaging stories committed to Merced County community",
+    "website": "https://themercedfocus.org/",
+    "rss": "https://themercedfocus.org/feed",
+    "lat": 37.3022,
+    "lng": -120.483
+  },
+  {
+    "name": "The Michigan Daily",
+    "zip": "48104",
+    "city_state": "Ann Arbor, MI",
+    "coverage": "Independent student-run newspaper serving University of Michigan since 1890",
+    "website": "https://michigandaily.com",
+    "rss": "https://michigandaily.com/feed",
+    "lat": 42.2808,
+    "lng": -83.743
+  },
+  {
+    "name": "The Modesto Focus",
+    "zip": "95354",
+    "city_state": "Modesto, CA",
+    "coverage": "Modesto newsroom covering San Joaquin Valley issues",
+    "website": "https://themodestofocus.org/",
+    "rss": "https://themodestofocus.org/feed",
+    "lat": 37.6391,
+    "lng": -120.9969
+  },
+  {
+    "name": "The New Bedford Light",
+    "zip": "02740",
+    "city_state": "New Bedford, MA",
+    "coverage": "Free nonprofit nonpartisan news with fact-based coverage and diverse voices",
+    "website": "https://newbedfordlight.org",
+    "rss": "https://newbedfordlight.org/feed",
+    "lat": 41.6362,
+    "lng": -70.9342
+  },
+  {
+    "name": "The New Orleans Tribune",
+    "zip": "70112",
+    "city_state": "New Orleans, LA",
+    "coverage": "Contemporary publication uplifting and prioritizing Black New Orleans audiences",
+    "website": "http://theneworleanstribune.com/",
+    "rss": "http://theneworleanstribune.com/feed",
+    "lat": 29.9511,
+    "lng": -90.0715
+  },
+  {
+    "name": "The New Pine Plains Herald",
+    "zip": "12567",
+    "city_state": "Pine Plains, NY",
+    "coverage": "Free local news for Pine Plains, Ancram, Gallatin, Milan & Stanford",
+    "website": "https://www.newpineplainsherald.org/",
+    "rss": "https://www.newpineplainsherald.org/feed",
+    "lat": 41.9784,
+    "lng": -73.6551
+  },
+  {
+    "name": "The Oaklandside",
+    "zip": "94612",
+    "city_state": "Oakland, CA",
+    "coverage": "Small mighty team of local journalists working for Oakland",
+    "website": "https://oaklandside.org/",
+    "rss": "https://oaklandside.org/feed",
+    "lat": 37.8044,
+    "lng": -122.2712
+  },
+  {
+    "name": "The Observer",
+    "zip": "95814",
+    "city_state": "Sacramento, CA",
+    "coverage": "One of leading African American newspapers in America",
+    "website": "https://sacobserver.com",
+    "rss": "https://sacobserver.com/feed",
+    "lat": 38.5816,
+    "lng": -121.4944
+  },
+  {
+    "name": "The Oklahoma Eagle",
+    "zip": "74120",
+    "city_state": "Tulsa, OK",
+    "coverage": "Trusted voice for Tulsa's Black and underserved communities since 1922",
+    "website": "https://theokeagle.org/",
+    "rss": "https://theokeagle.org/feed",
+    "lat": 36.154,
+    "lng": -95.9928
+  },
+  {
+    "name": "The Overlook",
+    "zip": "12498",
+    "city_state": "Woodstock, NY",
+    "coverage": "Community journalism serving the Catskills region",
+    "website": "https://theoverlooknews.com/",
+    "rss": "https://theoverlooknews.com/feed",
+    "lat": 42.0409,
+    "lng": -74.1182
+  },
+  {
+    "name": "The Pavlovic Today",
+    "zip": "10001",
+    "city_state": "New York, NY",
+    "coverage": "Independent news and analysis from world's power centers",
+    "website": "https://thepavlovictoday.com",
+    "rss": "https://thepavlovictoday.com/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "The Real News Network",
+    "zip": "21202",
+    "city_state": "Baltimore, MD",
+    "coverage": "Independent verifiable fact-based journalism engaging people in problem solving",
+    "website": "https://therealnews.com/",
+    "rss": "https://therealnews.com/feed",
+    "lat": 39.2904,
+    "lng": -76.6122
+  },
+  {
+    "name": "The San Diego Voice & Viewpoint",
+    "zip": "92113",
+    "city_state": "San Diego, CA",
+    "coverage": "Serving San Diego's African American community for over 60 years",
+    "website": "https://sdvoice.info/",
+    "rss": "https://sdvoice.info/feed",
+    "lat": 32.7157,
+    "lng": -117.1611
+  },
+  {
+    "name": "The Sentinel",
+    "zip": "80015",
+    "city_state": "Aurora, CO",
+    "coverage": "Leading Colorado news source covering business, sports, health, arts and politics",
+    "website": "https://sentinelcolorado.com/",
+    "rss": "https://sentinelcolorado.com/feed",
+    "lat": 39.7294,
+    "lng": -104.8319
+  },
+  {
+    "name": "The Sopris Sun",
+    "zip": "81623",
+    "city_state": "Carbondale, CO",
+    "coverage": "Community supported newsroom reflecting diverse faces of Roaring Fork Valley",
+    "website": "https://soprissun.com/",
+    "rss": "https://soprissun.com/feed",
+    "lat": 39.4022,
+    "lng": -107.2095
+  },
+  {
+    "name": "The Source Weekly",
+    "zip": "97701",
+    "city_state": "Bend, OR",
+    "coverage": "Bend/Central Oregon newspaper for arts, entertainment and recreation",
+    "website": "https://www.bendsource.com/",
+    "rss": "https://www.bendsource.com/feed",
+    "lat": 44.0582,
+    "lng": -121.3153
+  },
+  {
+    "name": "The St. Louis American",
+    "zip": "63103",
+    "city_state": "St. Louis, MO",
+    "coverage": "Most-trusted voice of African-American community since 1928",
+    "website": "https://www.stlamerican.com/",
+    "rss": "https://www.stlamerican.com/feed",
+    "lat": 38.627,
+    "lng": -90.1994
+  },
+  {
+    "name": "The Texas Tribune",
+    "zip": "78701",
+    "city_state": "Austin, TX",
+    "coverage": "Politics and policy issues affecting all Texans",
+    "website": "https://www.texastribune.org/",
+    "rss": "https://www.texastribune.org/rss.xml",
+    "lat": 30.2672,
+    "lng": -97.7431
+  },
+  {
+    "name": "The Times Weekly",
+    "zip": "60435",
+    "city_state": "Joliet, IL",
+    "coverage": "Serving Will County Illinois through local journalism since 1986",
+    "website": "https://thetimesweekly.com/",
+    "rss": "https://thetimesweekly.com/feed",
+    "lat": 41.525,
+    "lng": -88.0817
+  },
+  {
+    "name": "The Tributary",
+    "zip": "32202",
+    "city_state": "Jacksonville, FL",
+    "coverage": "Nonprofit investigating Jacksonville's entrenched problems in collaboration",
+    "website": "https://jaxtrib.org",
+    "rss": "https://jaxtrib.org/feed",
+    "lat": 30.3322,
+    "lng": -81.6557
+  },
+  {
+    "name": "The Voice of San Francisco",
+    "zip": "94102",
+    "city_state": "San Francisco, CA",
+    "coverage": "Sensible content bringing clarity to SF safety, housing and prosperity",
+    "website": "https://thevoicesf.org/",
+    "rss": "https://thevoicesf.org/feed",
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  {
+    "name": "The Waco Bridge",
+    "zip": "76701",
+    "city_state": "Waco, TX",
+    "coverage": "Independent nonprofit newsroom empowering Wacoans with local news",
+    "website": "https://wacobridge.org/",
+    "rss": "https://wacobridge.org/feed",
+    "lat": 31.5493,
+    "lng": -97.1467
+  },
+  {
+    "name": "The War Horse",
+    "zip": "02116",
+    "city_state": "Boston, MA",
+    "coverage": "Nonprofit journalism about military service, war, and its impact",
+    "website": "https://thewarhorse.org/",
+    "rss": "https://thewarhorse.org/feed",
+    "lat": 42.3601,
+    "lng": -71.0589
+  },
+  {
+    "name": "The Washington Informer",
+    "zip": "20018",
+    "city_state": "Washington, DC",
+    "coverage": "Black News, Commentary and Culture",
+    "website": "https://www.washingtoninformer.com/",
+    "rss": "https://www.washingtoninformer.com/feed",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  {
+    "name": "The Wichita Beacon",
+    "zip": "67202",
+    "city_state": "Wichita, KS",
+    "coverage": "First nonprofit community-supported digital news organization in Wichita",
+    "website": "https://wichitabeacon.org",
+    "rss": "https://wichitabeacon.org/feed",
+    "lat": 37.6872,
+    "lng": -97.3301
+  },
+  {
+    "name": "Times of San Diego",
+    "zip": "92101",
+    "city_state": "San Diego, CA",
+    "coverage": "Independent online news covering fifth most populous US county",
+    "website": "https://timesofsandiego.com",
+    "rss": "https://timesofsandiego.com/feed",
+    "lat": 32.7157,
+    "lng": -117.1611
+  },
+  {
+    "name": "Transitions Online",
+    "zip": "10001",
+    "city_state": "New York, NY",
+    "coverage": "Nonprofit strengthening media in post-communist Europe and former Soviet Union",
+    "website": "https://tol.org/",
+    "rss": "https://tol.org/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "Tri-State Defender",
+    "zip": "38126",
+    "city_state": "Memphis, TN",
+    "coverage": "News and entertainment for African-American community in Greater Memphis",
+    "website": "https://tri-statedefender.com/",
+    "rss": "https://tri-statedefender.com/feed",
+    "lat": 35.1495,
+    "lng": -90.049
+  },
+  {
+    "name": "Tucson Weekly",
+    "zip": "85701",
+    "city_state": "Tucson, AZ",
+    "coverage": "The Tucson news source covering politics, culture, arts, music, and food since 1984",
+    "website": "https://www.tucsonweekly.com/",
+    "rss": "https://www.tucsonweekly.com/feed",
+    "lat": 32.2226,
+    "lng": -110.9747
+  },
+  {
+    "name": "Tulsa Flyer",
+    "zip": "74103",
+    "city_state": "Tulsa, OK",
+    "coverage": "Everything you need to know in Tulsa \u2014 all in one place",
+    "website": "https://tulsaflyer.org/",
+    "rss": "https://tulsaflyer.org/feed",
+    "lat": 36.154,
+    "lng": -95.9928
+  },
+  {
+    "name": "Uganda Observer",
+    "zip": "00256",
+    "city_state": "Kampala, Uganda",
+    "coverage": "Ugandan weekly newspaper publishing news and views",
+    "website": "https://observer.ug/",
+    "rss": "https://observer.ug/feed",
+    "lat": 0.3476,
+    "lng": 32.5825
+  },
+  {
+    "name": "Umbria24",
+    "zip": "06100",
+    "city_state": "Perugia, Italy",
+    "coverage": "News investigations and real-time updates for Umbria region",
+    "website": "https://www.umbria24.it/",
+    "rss": "https://www.umbria24.it/feed",
+    "lat": 43.1107,
+    "lng": 12.3908
+  },
+  {
+    "name": "Underscore Native News",
+    "zip": "98101",
+    "city_state": "Seattle, WA",
+    "coverage": "Indigenous-centered journalism in Pacific Northwest",
+    "website": "https://www.underscore.news/",
+    "rss": "https://www.underscore.news/feed",
+    "lat": 47.6062,
+    "lng": -122.3321
+  },
+  {
+    "name": "URL Media",
+    "zip": "10001",
+    "city_state": "New York, NY",
+    "coverage": "Multi-platform network serving Black and Brown communities",
+    "website": "https://url-media.com/",
+    "rss": "https://url-media.com/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "Valley Independent Sentinel",
+    "zip": "06770",
+    "city_state": "Naugatuck, CT",
+    "coverage": "Coverage of news in Connecticut's lower Naugatuck Valley",
+    "website": "https://valley.newhavenindependent.org/",
+    "rss": "https://valley.newhavenindependent.org/feed",
+    "lat": 41.4859,
+    "lng": -73.0507
+  },
+  {
+    "name": "Valley News",
+    "zip": "03766",
+    "city_state": "Lebanon, NH",
+    "coverage": "Daily newspaper of Upper Valley Vermont and New Hampshire",
+    "website": "https://vnews.com/",
+    "rss": "https://vnews.com/feed",
+    "lat": 43.6422,
+    "lng": -72.2517
+  },
+  {
+    "name": "VAN Magazin, Deutsche",
+    "zip": "10115",
+    "city_state": "Berlin, Germany",
+    "coverage": "German online magazine for classical music opening new perspectives",
+    "website": "https://van-magazin.de",
+    "rss": "https://van-magazin.de/feed",
+    "lat": 52.52,
+    "lng": 13.405
+  },
+  {
+    "name": "VAN magazine, English",
+    "zip": "10115",
+    "city_state": "Berlin, Germany",
+    "coverage": "Independent online classical music magazine with strong personalities",
+    "website": "https://van-magazine.com",
+    "rss": "https://van-magazine.com/feed",
+    "lat": 52.52,
+    "lng": 13.405
+  },
+  {
+    "name": "Vinegar Hill Magazine",
+    "zip": "22902",
+    "city_state": "Charlottesville, VA",
+    "coverage": "Promoting inclusive narrative, entrepreneurship, art and culture in Central Virginia",
+    "website": "https://vinegarhillmagazine.com/",
+    "rss": "https://vinegarhillmagazine.com/feed",
+    "lat": 38.0293,
+    "lng": -78.4767
+  },
+  {
+    "name": "Voice of Orange County",
+    "zip": "92701",
+    "city_state": "Santa Ana, CA",
+    "coverage": "Fair focused journalism on Orange County quality of life and arts",
+    "website": "https://voiceofoc.org",
+    "rss": "https://voiceofoc.org/feed",
+    "lat": 33.7455,
+    "lng": -117.8677
+  },
+  {
+    "name": "Voice of San Diego",
+    "zip": "92101",
+    "city_state": "San Diego, CA",
+    "coverage": "Revealing why things are and exposing facts people in power don't want out",
+    "website": "https://voiceofsandiego.org",
+    "rss": "https://voiceofsandiego.org/feed",
+    "lat": 32.7157,
+    "lng": -117.1611
+  },
+  {
+    "name": "VTDigger",
+    "zip": "05602",
+    "city_state": "Montpelier, VT",
+    "coverage": "Rigorous journalism promoting public accountability and democratic engagement",
+    "website": "https://vtdigger.org",
+    "rss": "https://vtdigger.org/feed",
+    "lat": 44.2601,
+    "lng": -72.5754
+  },
+  {
+    "name": "W42ST NYC",
+    "zip": "10108",
+    "city_state": "New York, NY",
+    "coverage": "Go-to source for all things Hell's Kitchen",
+    "website": "https://w42st.com/",
+    "rss": "https://w42st.com/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "Washington City Paper",
+    "zip": "20001",
+    "city_state": "Washington, DC",
+    "coverage": "In depth reporting on DC local news, food, arts and sports since founding",
+    "website": "https://washingtoncitypaper.com/",
+    "rss": "https://washingtoncitypaper.com/feed",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  {
+    "name": "Washington Monthly",
+    "zip": "20036",
+    "city_state": "Washington, DC",
+    "coverage": "Honest desire to make government work through deeply reported stories for 45+ years",
+    "website": "https://washingtonmonthly.com",
+    "rss": "https://washingtonmonthly.com/feed",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  {
+    "name": "Wednesday Journal",
+    "zip": "60302",
+    "city_state": "Oak Park, IL",
+    "coverage": "Weekly newspaper serving Oak Park and River Forest in Chicagoland",
+    "website": "https://oakpark.com",
+    "rss": "https://oakpark.com/feed",
+    "lat": 41.885,
+    "lng": -87.7845
+  },
+  {
+    "name": "What's Up Newp",
+    "zip": "02840",
+    "city_state": "Newport, RI",
+    "coverage": "Online news covering sports, weather, news, politics and arts in Rhode Island",
+    "website": "https://whatsupnewp.com",
+    "rss": "https://whatsupnewp.com/feed",
+    "lat": 41.4901,
+    "lng": -71.3128
+  },
+  {
+    "name": "Windy City Times",
+    "zip": "60657",
+    "city_state": "Chicago, IL",
+    "coverage": "LGBTQ+ community news in Chicago since 1985",
+    "website": "https://windycitytimes.com/",
+    "rss": "https://windycitytimes.com/feed",
+    "lat": 41.8781,
+    "lng": -87.6298
+  },
+  {
+    "name": "Wisconsin Watch",
+    "zip": "53703",
+    "city_state": "Madison, WI",
+    "coverage": "Increasing investigative journalism to strengthen Wisconsin democracy",
+    "website": "https://wisconsinwatch.org",
+    "rss": "https://wisconsinwatch.org/feed",
+    "lat": 43.0731,
+    "lng": -89.4012
+  },
+  {
+    "name": "Women Do News",
+    "zip": "10001",
+    "city_state": "New York, NY",
+    "coverage": "Raising visibility of women journalists through Wikipedia entries",
+    "website": "https://womendonews.org",
+    "rss": "https://womendonews.org/feed",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "name": "Word In Black",
+    "zip": "20005",
+    "city_state": "Washington, DC",
+    "coverage": "Framing narrative and fostering solutions for racial inequities in America",
+    "website": "https://wordinblack.com",
+    "rss": "https://wordinblack.com/feed",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  {
+    "name": "Work Shift",
+    "zip": "20036",
+    "city_state": "Washington, DC",
+    "coverage": "News and analysis on whether education delivers needed talent and opportunity",
+    "website": "https://workshift.org/",
+    "rss": "https://workshift.org/feed",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  {
+    "name": "WyoFile",
+    "zip": "82601",
+    "city_state": "Casper, WY",
+    "coverage": "In-depth Wyoming digital reporting on politics, energy and natural resources",
+    "website": "https://wyofile.com/",
+    "rss": "https://wyofile.com/feed",
+    "lat": 42.8666,
+    "lng": -106.3131
+  },
+  {
+    "name": "Yale Climate Connections",
+    "zip": "06511",
+    "city_state": "New Haven, CT",
+    "coverage": "Nonpartisan climate change reporting, commentary and analysis",
+    "website": "https://yaleclimateconnections.org",
+    "rss": "https://yaleclimateconnections.org/feed",
+    "lat": 41.3083,
+    "lng": -72.9279
+  },
+  {
+    "name": "YubaNet",
+    "zip": "95959",
+    "city_state": "Nevada City, CA",
+    "coverage": "Community news and information for Nevada County California",
+    "website": "https://yubanet.com",
+    "rss": "https://yubanet.com/feed",
+    "lat": 39.2619,
+    "lng": -121.0161
+  },
+  {
+    "name": "Zan Times",
+    "zip": "00000",
+    "city_state": "Kabul, Afghanistan",
+    "coverage": "Coverage of human rights violations in Afghanistan focusing on Afghan women",
+    "website": "https://zantimes.com/",
+    "rss": "https://zantimes.com/feed",
+    "lat": 34.5553,
+    "lng": 69.2075
+  },
+  {
+    "name": "Z\u00f3calo Public Square",
+    "zip": "85004",
+    "city_state": "Phoenix, AZ",
+    "coverage": "ASU Knowledge Enterprise publishing ideas journalism",
+    "website": "https://www.zocalopublicsquare.org/",
+    "rss": "https://www.zocalopublicsquare.org/feed",
+    "lat": 33.4484,
+    "lng": -112.074
+  }
+]
